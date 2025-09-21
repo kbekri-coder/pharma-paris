@@ -30,11 +30,14 @@
     <input id="csvInput" type="file" accept=".csv" />
     <button id="loadCsvBtn">Charger CSV (local)</button>
     <span id="counter">Vus: 0 / Total: 0</span>
+    <span id="saveStatus" style="margin-left:8px;color:#2c7"></span>
     <button id="saveCsvBtn">Enregistrer CSV (mis à jour)</button>
     <button id="openPickerBtn">Ouvrir (accès direct)</button>
     <button id="savePickerBtn">Enregistrer (accès direct)</button>
   </div>
   <div id="map"></div>
+  <!-- Fallback statique: on embarque le CSV via un <object> lisible côté client -->
+  <object id="csvObject" data="pharmacies_paris_traite_avec_adresses.csv" type="text/plain" style="display:none"></object>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
@@ -80,7 +83,7 @@
       const addr = p.address || 'Adresse non renseignée';
       const vue = (p.VUE || 'non');
       const num = p.index != null ? `#${p.index} · ` : '';
-      return `<b>Pharmacie</b><br>${num}${name}<br>📍 ${addr}<br>📞 ${phone}<br>VUE: <b>${vue}</b><br><button class="toggle-vue-btn">Basculer VUE</button>`;
+      return `<b>Pharmacie</b><br>${num}${name}<br>📍 ${addr}<br>📞 ${phone}<br>VUE: <b>${vue}</b><br><button class="toggle-vue-btn">Basculer VUE</button><button class="save-vue-btn" style="margin-left:8px">Enregistrer</button>`;
     }
 
     function buildNumberedIcon(props) {
@@ -104,15 +107,59 @@
       const marker = L.marker([lat, lon], { icon: buildNumberedIcon(props) })
         .bindPopup(makePopupContent(props));
       marker.on('popupopen', (e) => {
-        const btn = e.popup._contentNode.querySelector('.toggle-vue-btn');
-        if (btn) {
-          btn.addEventListener('click', () => {
-            props.VUE = (String(props.VUE||'non').toLowerCase()==='oui') ? 'non' : 'oui';
-            refreshMarkerIcon({ marker, properties: props });
-            marker.setPopupContent(makePopupContent(props));
-            updateCounter();
-          }, { once: true });
-        }
+        const wireHandlers = () => {
+          const btn = e.popup._contentNode.querySelector('.toggle-vue-btn');
+          if (btn) {
+            btn.onclick = () => {
+              props.VUE = (String(props.VUE||'non').toLowerCase()==='oui') ? 'non' : 'oui';
+              refreshMarkerIcon({ marker, properties: props });
+              marker.setPopupContent(makePopupContent(props));
+              updateCounter();
+              // Ré-attacher les handlers sur le nouveau contenu
+              setTimeout(wireHandlers, 0);
+            };
+          }
+          const saveBtn = e.popup._contentNode.querySelector('.save-vue-btn');
+          if (saveBtn) {
+            saveBtn.onclick = async () => {
+              const setStatus = (t, ok=true) => {
+                const s = document.getElementById('saveStatus');
+                if (s) { s.style.color = ok ? '#2c7' : '#c00'; s.textContent = t; setTimeout(()=>{ s.textContent=''; }, 2000); }
+              };
+              try {
+                const idx = props.rowIndex;
+                if (idx != null && originalRows[idx]) {
+                  originalRows[idx]['VUE'] = props.VUE || 'non';
+                }
+                if (fileHandle) {
+                  const csv = buildUpdatedCSV();
+                  const writable = await fileHandle.createWritable();
+                  await writable.write(csv);
+                  await writable.close();
+                  setStatus('Enregistré ✔');
+                } else {
+                  const csv = buildUpdatedCSV();
+                  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+                  const a = document.createElement('a');
+                  const url = URL.createObjectURL(blob);
+                  a.href = url;
+                  const base = sourceFileName.replace(/\.csv$/i, '');
+                  a.download = `${base}_updated.csv`;
+                  a.style.display = 'none';
+                  document.body.appendChild(a);
+                  a.click();
+                  document.body.removeChild(a);
+                  URL.revokeObjectURL(url);
+                  setStatus('Exporté (mise à jour)');
+                }
+              } catch(e) {
+                console.error(e);
+                setStatus('Erreur d\'enregistrement', false);
+              }
+            };
+          }
+        };
+        wireHandlers();
       });
       pharmacyLayer.addLayer(marker);
       return marker;
@@ -175,8 +222,28 @@
         sourceFileName = DEFAULT_CSV;
         loadCsvText(text);
       } catch (e) {
-        // Ouverture file:// ou CORS: on ignore et on laisse l'utilisateur charger manuellement
-        console.warn('Chargement par défaut échoué:', e);
+        // Fallback ultra-statqiue: lire le contenu de l'<object> si accessible en file://
+        try {
+          const obj = document.getElementById('csvObject');
+          const readObject = () => {
+            const doc = obj && obj.contentDocument;
+            const body = doc && doc.body;
+            const text = body && (body.innerText || body.textContent);
+            if (text && text.trim().length > 0) {
+              sourceFileName = DEFAULT_CSV;
+              loadCsvText(text);
+              return true;
+            }
+            return false;
+          };
+          // Si déjà chargé
+          if (!readObject()) {
+            // Attendre l'événement de chargement
+            obj.addEventListener('load', () => { readObject(); }, { once: true });
+          }
+        } catch(err) {
+          console.warn('Fallback <object> non accessible:', err);
+        }
       }
     }
 
@@ -319,6 +386,9 @@
       {"Pharmacies": pharmacyLayer, "Réseaux ferrés": railLayer},
       {collapsed: false}
     ).addTo(map);
+
+    // Essai de chargement automatique du CSV local (même dossier)
+    tryLoadDefault();
   </script>
 </body>
 </html>
