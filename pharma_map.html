@@ -53,6 +53,7 @@
     let originalFields = []; // en-têtes d'origine (ordre préservé)
     let sourceFileName = 'pharmacies_paris_traite_avec_adresses.csv';
     let fileHandle = null;   // handle du fichier ouvert via File System Access API
+    const DEFAULT_CSV = 'pharmacies_paris_traite_avec_adresses.csv';
 
     function updateCounter() {
       const total = pharmacyData.length;
@@ -163,6 +164,20 @@
           updateCounter();
         }
       });
+    }
+
+    // Tenter de charger par défaut le CSV situé au même niveau que cette page
+    async function tryLoadDefault() {
+      try {
+        const resp = await fetch(DEFAULT_CSV, { cache: 'no-store' });
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const text = await resp.text();
+        sourceFileName = DEFAULT_CSV;
+        loadCsvText(text);
+      } catch (e) {
+        // Ouverture file:// ou CORS: on ignore et on laisse l'utilisateur charger manuellement
+        console.warn('Chargement par défaut échoué:', e);
+      }
     }
 
     // Enregistrer/exporter le CSV mis à jour (avec VUE modifiée depuis la carte)
