@@ -1,0 +1,881 @@
+Pharmacie,Adresse_Complete,Telephone,Deja_Contacte,RDV,Action,Distance_Cite_Universitaire_km,Coordonnees,VUE
+Pharmacie de la Cité,"Rue de l'Amiral Mouchez, 75014 Paris, France",Non renseigné,non,,,0.22860288000825496,"48.821618, 2.3421128",oui
+Pharmacie du Parc,"Rue de l'Amiral Mouchez, 75013 Paris, France",+33 1 45 89 10 05,non,,,0.6271933994160896,"48.8260107, 2.3418204",non
+Pharmacie Bobillot Montsouris,"Rue Bobillot, 75013 Paris, France",Non renseigné,non,,,0.6740280152199041,"48.8233194, 2.3476282",non
+Pharmacie de la Butte aux Cailles,"Rue de Tolbiac, 75013 Paris, France",Non renseigné,non,,,0.7081467722816678,"48.8258619, 2.344849",non
+Pharmacie Kellermann,"Boulevard Kellermann, 75013 Paris, France",+33 1 45 88 23 24,non,,,0.808613336102302,"48.8206435, 2.3504445",non
+Pharmacie Lor et Leuk,"Rue de la Providence, 75013 Paris, France",Non renseigné,non,,,0.842203626953548,"48.8257885, 2.3477809",non
+Pharmacie Jourdan,"Boulevard Jourdan, 75014 Paris, France",Non renseigné,non,,,0.8799645945505824,"48.8225152, 2.3277378",non
+Pharmacie Sarrette,"Place des Droits de l'Enfant, 75014 Paris, France",Non renseigné,non,,,0.9316891046230186,"48.8274146, 2.3319952",non
+Pharmacie du Théâtre,"Rue de la Glacière, 75013 Paris, France",Non renseigné,non,,,1.0119623061497116,"48.8292031, 2.3439087",non
+Pharmacie Chouvin,"Rue du Loing, 75014 Paris, France",Non renseigné,non,,,1.0601167090095018,"48.8277141, 2.3297596",non
+Nom inconnu,"Rue Adolphe Focillon, 75014 Paris, France",Non renseigné,non,,,1.0620092362164693,"48.8269224, 2.3285268",non
+Pharmacie Principale,"Boulevard Brune, 75014 Paris, France",+33 1 45 42 27 75,non,,,1.0960553103866875,"48.8229405, 2.324857",non
+Pharmacie Tran Huu Nghia,"Rue des Cinq Diamants, 75013 Paris, France",+33 1 45 80 76 37,non,,,1.1050423367044637,"48.8279309, 2.3495913",non
+Para&Pharmacie du grand Paris,"Avenue du Général Leclerc, 75014 Paris, France",Non renseigné,non,,,1.1149120385752345,"48.8248933, 2.3256377",non
+Pharmacie du Village des Peupliers,"Place Jean Delay, 75013 Paris, France",Non renseigné,non,,,1.1279735323688491,"48.8231032, 2.3543307",non
+Pharmacie Coty-Issoire,"15 Avenue René Coty, 75014 Paris, France",Non renseigné,non,,,1.1575427456276584,"48.830412, 2.3341178",non
+Pharmacie Blanqui,"Rue Le Dantec, 75013 Paris, France",Non renseigné,non,,,1.1658025529109763,"48.829782, 2.347087",non
+Pharmacie des Peupliers,"Rue de Tolbiac, 75013 Paris, France",Non renseigné,non,,,1.1769357467762644,"48.8260658, 2.353167",non
+Grande Pharmacie Alésia,"79 Avenue du Général Leclerc, 75014 Paris, France",+33 1 43 27 03 39,non,,,1.193895280376591,"48.8277248, 2.3271996",non
+Bernard Zerbib,"Boulevard Brune, 75014 Paris, France",Non renseigné,non,,,1.1979251638236046,"48.8234359, 2.3236144",non
+Pharmacie du Coin de la Rue,"Rue Rémy Dumoncel, 75014 Paris, France",Non renseigné,non,,,1.2084140254950315,"48.8295474, 2.3300309",non
+Pharmacie de la Glacière,"Boulevard Auguste Blanqui, 75013 Paris, France",Non renseigné,non,,,1.2472985974659052,"48.8314371, 2.343798",non
+Pharmacie Alesia - Jean Moulin,"Avenue Jean Moulin, 75014 Paris, France",Non renseigné,non,,,1.297020503486457,"48.8269809, 2.3245691",non
+Pharmacie Lavaux,"Rue du Moulin-des-Prés, 75013 Paris, France",Non renseigné,non,,,1.3319585242041987,"48.8286085, 2.3529303",non
+Pharmacie de l'avenue,"Rue Sophie Germain, 75014 Paris, France",Non renseigné,non,,,1.3468398497950334,"48.8309695, 2.3298918",non
+Pharmacie Le Bœuf,"Avenue d'Italie, 75013 Paris, France",Non renseigné,non,,,1.3883471426681793,"48.8243871, 2.3574705",non
+Pharmacie Maison Blanche,"160 Avenue d'Italie, 75013 Paris, France",01 45 88 37 65,non,,,1.3898978732931002,"48.8217951, 2.3582976",non
+Pharmacie Hammer,"Rue de la Vistule, 75013 Paris, France",Non renseigné,non,,,1.4294067053279025,"48.8229667, 2.3585907",non
+Pharmacie Homéopathique Maine Vally,"Rue Thibaud, 75014 Paris, France",Non renseigné,non,,,1.429443581983523,"48.8300949, 2.3262364",non
+Pharmacie de l'Avenue,"76 Rue de Tolbiac, 75013 Paris, France",Non renseigné,non,,,1.4321340404063125,"48.8263842, 2.3568786",non
+Pharmacie Tolbiac,"Rue de Tolbiac, 75013 Paris, France",Non renseigné,non,,,1.4695645678692566,"48.8260647, 2.3576772",non
+Pharmacie du Lion,"Avenue du Général Leclerc, 75014 Paris, France",Non renseigné,non,,,1.488712215710685,"48.8329627, 2.3315938",non
+Pharmacie Jean Moulin,"Place de la Porte de Châtillon, 75014 Paris, France",Non renseigné,non,,,1.5103003871698053,"48.8242287, 2.3195202",non
+Pharmacie de la Mairie,"Rue Brézin, 75014 Paris, France",Non renseigné,non,,,1.5372790249859611,"48.8314837, 2.3264507",non
+Pharmacie Nordmann Glacière,"Rue Léon-Maurice Nordmann, 75013 Paris, France",Non renseigné,non,,,1.5774498207249168,"48.8343028, 2.3449782",non
+Pharmacie de la Porte d'Italie,"Rue Fernand Widal, 75013 Paris, France",Non renseigné,non,,,1.5949483208750153,"48.8187866, 2.3610099",non
+Pharmacie Centrale d'Alésia,"Rue d'Alésia, 75014 Paris, France",+33 1 45 42 13 24,non,,,1.5992089065385788,"48.8295734, 2.3223284",non
+Pharmacie des Plantes,"Rue Bénard, 75014 Paris, France",Non renseigné,non,,,1.6220346295863635,"48.8309683, 2.3238141",non
+Pharmacie du 13ème,"5 bis Avenue d'Italie, 75013 Paris, France",+33 1 45 82 86 60,non,,,1.6236794619189165,"48.8299806, 2.3563975",non
+Sarl Pharmacie Place Denfert-Rochereau,"Avenue Denfert-Rochereau, 75014 Paris, France",Non renseigné,non,,,1.6294763364847697,"48.8346489, 2.3330683",non
+Pharmacie de la Place d'Italie,"Place d'Italie, 75013 Paris, France",Non renseigné,non,,,1.6323046065501352,"48.8315787, 2.3542019",non
+Pharmacie de l'Europe,"Rue des Plantes, 75014 Paris, France",Non renseigné,non,,,1.6592496234136993,"48.8320415, 2.3248498",non
+Pharmacie Ly Ky,"Avenue d'Ivry, 75013 Paris, France",Non renseigné,non,,,1.6610180890655841,"48.8256469, 2.3607545",non
+Pharmacie Adele,"Rue Caillaux, 75013 Paris, France",Non renseigné,non,,,1.6875753554108626,"48.8230552, 2.3621472",non
+Grande Pharmacie Daguerre,"Rue Daguerre, 75014 Paris, France",Non renseigné,non,,,1.7167381751554087,"48.8342739, 2.3285111",non
+Pharmacie Coscas Bouzemane,"Rue Broca, 75013 Paris, France",Non renseigné,non,,,1.723195637962301,"48.835354, 2.3466019",non
+Pharmacie Thiebaud Serafin,"Boulevard Arago, 75013 Paris, France",Non renseigné,non,,,1.7343796303494479,"48.8352229, 2.3476444",non
+Pharmacie Raspail 14e,"Boulevard Raspail, 75014 Paris, France",Non renseigné,non,,,1.7484039109135263,"48.8354836, 2.331697",non
+Pharmacie Vincent Auriol,"Boulevard Vincent Auriol, 75013 Paris, France",Non renseigné,non,,,1.771403380824838,"48.8310667, 2.3576421",non
+Pharmacie des Gobelins,"Rue du Banquier, 75013 Paris, France",Non renseigné,non,,,1.855602889611437,"48.8342764, 2.3539253",non
+Pharmacie Village Didot,"66 Rue Didot, 75014 Paris, France",+33 1 45 42 22 29,non,,,1.885001837144539,"48.8293682, 2.3173627",non
+Pharmacie Didot-Pernety,"Rue Didot, 75014 Paris, France",+33 1 45 43 36 04,non,,,1.887193626019881,"48.8321147, 2.3204611",non
+Mallebay,"Rue Boulitte, 75014 Paris, France",Non renseigné,non,,,1.8950867560835498,"48.8285931, 2.3165369",non
+Pharmacie de la Porte de Choisy,"Boulevard Masséna, 75013 Paris, France",Non renseigné,non,,,1.9005039026704986,"48.8196355, 2.365317",non
+Pharmacie Arago,"Boulevard Arago, 75013 Paris, France",Non renseigné,non,,,1.941270362733059,"48.8365209, 2.3502816",non
+Pharmacie Villemont-Martinez,"Boulevard de Port-Royal, 75005 Paris, France",Non renseigné,non,,,1.9670763033727834,"48.8377383, 2.3460608",non
+Pharmacie Olympiades Massena,"Dalle des Olympiades, 75013 Paris, France",Non renseigné,non,,,1.9782236693094022,"48.8236513, 2.3660206",non
+Pharmacie du Javelot,"Dalle des Olympiades, 75013 Paris, France",Non renseigné,non,,,1.9848065282620007,"48.8251368, 2.365621",non
+Pharmacie Massena 13,"Villa d'Este, 75013 Paris, France",+33144067272,non,,,1.9908656779345086,"48.8218217, 2.3665298",non
+OR'EL des Gobelins,"Avenue des Gobelins, 75013 Paris, France",Non renseigné,non,,,2.003976946331954,"48.8364526, 2.3524225",non
+Pharmacie Charlemagne,"Avenue du Maine, 75014 Paris, France",Non renseigné,non,,,2.0171733342168108,"48.8356376, 2.3239865",non
+Pharmacie Leroy,"Boulevard de Port-Royal, 75005 Paris, France",Non renseigné,non,,,2.018315544527425,"48.8370729, 2.3509794",non
+Pharmacie de la Porte Didot,"Boulevard Brune, 75014 Paris, France",Non renseigné,non,,,2.0299452936489817,"48.8258334, 2.3128357",non
+Cochin - Port-Royal,"Voie B/5, 75005 Paris, France",Non renseigné,non,,,2.038359838865335,"48.8389187, 2.3404368",non
+Pharmacie Bichet,"Allée Django Reinhardt, 75013 Paris, France",Non renseigné,non,,,2.0598053497773146,"48.8317439, 2.3618766",non
+Pharmacie de la Maternité Port-Royal,"Boulevard de Port-Royal, 75005 Paris, France",+33 1 43 54 04 85,non,,,2.0638445829471856,"48.8391606, 2.3393954",non
+RER Port-Royal,"Avenue Georges Bernanos, 75005 Paris, France",Non renseigné,non,,,2.125389016973701,"48.8396679, 2.3373828",non
+Pharmacie Temstet Ouizman,"Rue Raymond Losserand, 75014 Paris, France",Non renseigné,non,,,2.1263112059459464,"48.8349689, 2.320234",non
+Nationale,"Rue Nationale, 75013 Paris, France",Non renseigné,non,,,2.1300192886484237,"48.8296212, 2.3650676",non
+CareStore Salpétrière,"Boulevard de l'Hôpital, 75013 Paris, France",Non renseigné,non,,,2.1466214502635133,"48.8351716, 2.3586353",non
+Pharmacie Pernety,"Rue des Thermopyles, 75014 Paris, France",Non renseigné,non,,,2.150566661546419,"48.8334909, 2.3174992",non
+Pharmacie Saint-Marcel,"76 Boulevard Saint-Marcel, 75005 Paris, France",Non renseigné,non,,,2.1506886961534484,"48.8375562, 2.3535349",non
+Pharmacie Appel,"Rue Claude Bernard, 75005 Paris, France",Non renseigné,non,,,2.1741425353778427,"48.8388147, 2.3501978",non
+Pharmacie Plaisance,"Rue d'Alésia, 75014 Paris, France",+33145431554,non,,,2.178683188967095,"48.8315542, 2.3147243",non
+Saint-Médard,"146 Rue Mouffetard, 75005 Paris, France",+33 1 43 31 28 84,non,,,2.197072460102117,"48.8391333, 2.3498059",non
+Pharmacie Campo-Formio Phovea,"Boulevard de l'Hôpital, 75013 Paris, France",Non renseigné,non,,,2.208073394964922,"48.8356906, 2.3590066",non
+Pharmacie Val de Grace,"Rue Saint-Jacques, 75005 Paris, France",Non renseigné,non,,,2.2366401387306216,"48.8406994, 2.3405872",non
+Pharmacie Ivry Massena,"Boulevard Masséna, 75013 Paris, France",Non renseigné,non,,,2.238721052206173,"48.8214555, 2.3699509",non
+Alésia Plaisance,"Rue d'Alésia, 75014 Paris, France",Non renseigné,non,,,2.2457535846535412,"48.8319627, 2.3140379",non
+Pharmacie Centrale,"Rue du Château des Rentiers, 75013 Paris, France",+33 1 44 24 10 00,non,,,2.253932666461345,"48.8271728, 2.3685245",non
+Pharmacie Well & Well,"Rue de l'Ouest, 75014 Paris, France",Non renseigné,non,,,2.2563556477907936,"48.8360932, 2.3194943",non
+Pharmacie Notre Dame des Champs,"Rue Notre-Dame-des-Champs, 75006 Paris, France",Non renseigné,non,,,2.258919946811312,"48.8406428, 2.3343655",non
+Pharmacie du Marché,"Boulevard Brune, 75014 Paris, France",Non renseigné,non,,,2.262991802011156,"48.8265022, 2.3098169",non
+Pharmacie Peret,"Rue Vauquelin, 75005 Paris, France",Non renseigné,non,,,2.2652760885768584,"48.8404823, 2.3461454",non
+Pharmacie de l'Ouest,"Rue de l'Ouest, 75014 Paris, France",Non renseigné,non,,,2.2973461107169575,"48.8335625, 2.3149622",non
+Pharmacie Jeanne d'Arc,"58 Rue Jeanne d'Arc, 75013 Paris, France",0145837847,non,,,2.3112787879853958,"48.8315222, 2.3662626",non
+Pharmacie de la Paix,"Rue Raymond Losserand, 75014 Paris, France",Non renseigné,non,,,2.3328660935311536,"48.830662, 2.3114368",non
+Pharmacie Les Feuillantines,"Rue Gay-Lussac, 75005 Paris, France",Non renseigné,non,,,2.3538406930444573,"48.8415876, 2.3435962",non
+Pharmacie Patay,"3 Rue Jeanne d'Arc, 75013 Paris, France",0145834022,non,,,2.3786388770639446,"48.8288832, 2.3693573",non
+Pharmacie Place de Catalogne,"24 Place de Catalogne, 75014 Paris, France",Non renseigné,non,,,2.3864417244463296,"48.8375805, 2.3194622",non
+Pharmacie Laxan,"Rue de Mirbel, 75005 Paris, France",+33 1 43 31 72 90,non,,,2.406353573634255,"48.8407208, 2.3515033",non
+Pharmacie Nahmani,"Square Dunois, 75013 Paris, France",Non renseigné,non,,,2.4119826271064713,"48.8335964, 2.3657803",non
+Pharmactiv,"Rue de Tolbiac, 75013 Paris, France",Non renseigné,non,,,2.426130245156947,"48.8274933, 2.3708429",non
+Pharmacie du Dome,"Rue Huyghens, 75014 Paris, France",Non renseigné,non,,,2.426168636382707,"48.8414031, 2.3294036",non
+Pharmacie du Luxembourg,"Boulevard Saint-Michel, 75005 Paris, France",Non renseigné,non,,,2.429661862835195,"48.8424411, 2.3384278",non
+Pharmacie du 5e,"Rue Mouffetard, 75005 Paris, France",Non renseigné,non,,,2.4485710812791335,"48.8415439, 2.3497318",non
+Pharmacie Espérance,"Rue Raymond Losserand, 75014 Paris, France",Non renseigné,non,,,2.475394638623468,"48.8288286, 2.307981",non
+Pharmacie Saint-Jacques,"Rue Saint-Jacques, 75005 Paris, France",Non renseigné,non,,,2.4838828430742623,"48.8428957, 2.3414897",non
+Pharmacie Olivier Césaréo,"Rue Geoffroy Saint-Hilaire, 75005 Paris, France",Non renseigné,non,,,2.5033713930806503,"48.840098, 2.3564976",non
+Pharmacie Edgar Quinet,"Place Stéphane Hessel, 75014 Paris, France",Non renseigné,non,,,2.516786811526172,"48.8412432, 2.3252996",non
+Pharmacie des Sciences et des Arts,"Boulevard du Montparnasse, 75014 Paris, France",Non renseigné,non,,,2.5247054067414085,"48.842146, 2.3285198",non
+La Grande Pharmacie du Chevaleret,"Boulevard Vincent Auriol, 75013 Paris, France",Non renseigné,non,,,2.5622588368431805,"48.8344622, 2.3673602",non
+Pharmacie de la Porte de Vanves,"Sortie 1 : Boulevard Brune, 75014 Paris, France",Non renseigné,non,,,2.5771661941103163,"48.8274102, 2.3057506",non
+Pharmacie Gay-Lussac,"Rue Gay-Lussac, 75005 Paris, France",Non renseigné,non,,,2.5967092798888167,"48.8438865, 2.3420707",non
+Pharmacie Bienvenue,"Avenue du Maine, 75014 Paris, France",Non renseigné,non,,,2.6002369623761736,"48.8409316, 2.3218506",non
+Nom inconnu,"Rue Duchefdelaville, 75013 Paris, France",Non renseigné,non,,,2.6044549019181553,"48.8322086, 2.3703008",non
+Phamarcie Monge,"Place Monge, 75005 Paris, France",Non renseigné,non,,,2.6045944319994616,"48.8425995, 2.3516184",non
+Pharmacie Monge,"Rue Monge, 75005 Paris, France",+33 1 43 31 39 44,non,,,2.611839475006689,"48.8425907, 2.3519394",non
+Pharmacie Lam,"8 Boulevard Saint-Marcel, 75005 Paris, France",Non renseigné,non,,,2.6593050564046035,"48.8398897, 2.360876",non
+Pharmacie Vavin,"Rue Vavin, 75006 Paris, France",+33 1 43 26 70 07,non,,,2.677989506730734,"48.8439265, 2.3302977",non
+Pharmacie Juillet,"Rue Sainte-Beuve, 75006 Paris, France",Non renseigné,non,,,2.703631032362618,"48.8439787, 2.329252",non
+Pharmacie Traditionelle Massena,"Boulevard Masséna, 75013 Paris, France",Non renseigné,non,,,2.718096590473738,"48.8236408, 2.3762387",non
+Aprium Pharmacie Montparnasse,"Rue d'Odessa, 75014 Paris, France",Non renseigné,non,,,2.7407356937527165,"48.8431992, 2.3244536",non
+Pharmacie Solal Bismuth,"Rue Labrouste, 75015 Paris, France",+33145324757,non,,,2.7567897852123453,"48.8360799, 2.3099828",non
+Pharmacie de l'Olivier,"Rue Monge, 75005 Paris, France",Non renseigné,non,,,2.776171186776213,"48.844028, 2.3525092",non
+Pharmacie du Panthéon,"Rue Saint-Jacques, 75005 Paris, France",+33 1 43 54 21 11,non,,,2.8053613320811612,"48.8457261, 2.3428618",non
+Pharmacie Cuvier,"Rue Lacépède, 75005 Paris, France",Non renseigné,non,,,2.8054263086542592,"48.8437349, 2.3546913",non
+Pharmacie du Jardin des Plantes,"Boulevard de l'Hôpital, 75005 Paris, France",Non renseigné,non,,,2.8309434082813536,"48.8411279, 2.3622765",non
+Pharmacie des Facultés,"Rue Royer-Collard, 75005 Paris, France",Non renseigné,non,,,2.831556789732913,"48.8460312, 2.3413867",non
+Pharmacie Saint-Michel,"Rue Royer-Collard, 75005 Paris, France",Non renseigné,non,,,2.857286451090633,"48.8462851, 2.340547",non
+Grande Pharmacie de l'Arrivée,"Rue de l'Arrivée, 75015 Paris, France",+33 1 45 48 61 20,non,,,2.870924515424571,"48.8438536, 2.3223556",non
+Pharmacie F. Gabriel,"Rue des Morillons, 75015 Paris, France",Non renseigné,non,,,2.8772759430456447,"48.832047, 2.3041505",non
+Pharmacie F,"141 Avenue de France, 75013 Paris, France",+33 1 86 95 42 42,non,,,2.899060885432313,"48.8319241, 2.3750716",non
+Pharmacie Soufflot,"Accès Parking Soufflot Panthéon, 75005 Paris, France",Non renseigné,non,,,2.940154184558706,"48.8470028, 2.3415709",non
+Pharmacie du Parc,"Rue Brancion, 75015 Paris, France",Non renseigné,non,,,2.9454685610724978,"48.8328334, 2.3037114",non
+Aprium Pharmacie Porte de Brancion,"Boulevard Lefebvre, 75015 Paris, France",+33 1 48 28 32 55,non,,,2.9517926941628136,"48.8284972, 2.3009044",non
+Grande pharmacie centrale Pasteur,"Rue Falguière, 75015 Paris, France",+33 1 43 20 78 19,non,,,2.9669824978165344,"48.8415926, 2.3143795",non
+Slakmon,"Rue de Rennes, 75006 Paris, France",Non renseigné,non,,,2.9714569611223163,"48.8458344, 2.3260398",non
+Pharmacie Bibliothèque,"Rue Neuve Tolbiac, 75013 Paris, France",Non renseigné,non,,,2.9834711383351227,"48.8305832, 2.3772286",non
+Pharmacie well & well,"Rue Monge, 75005 Paris, France",Non renseigné,non,,,2.9880928937086275,"48.846246, 2.351593",non
+Pharmacie Brancion-Vouillé,"Rue de Vouillé, 75015 Paris, France",Non renseigné,non,,,3.0019289333020285,"48.8347305, 2.3044574",non
+Pharmacie d'Assas,"Rue de Fleurus, 75006 Paris, France",+33145481951,non,,,3.0118980444252843,"48.846996, 2.3301669",non
+Pharmacie de l'Institut,"Rue Dutot, 75015 Paris, France",Non renseigné,non,,,3.017727350280509,"48.8386302, 2.3085873",non
+Pharmacie Trégouet,"Rue de Fleurus, 75006 Paris, France",Non renseigné,non,,,3.0213957534996396,"48.8465962, 2.327388",non
+Pharmacie Alleray,"Rue Paul Barruel, 75015 Paris, France",+33148285810,non,,,3.0380089931172742,"48.8369001, 2.3060929",non
+Pharmacie Pasteur,"Boulevard Pasteur, 75015 Paris, France",Non renseigné,non,,,3.048185923096203,"48.8418058, 2.31301",non
+Pharmacie Necker Pasteur,"Rue Edmond Guillout, 75015 Paris, France",Non renseigné,non,,,3.060387688203555,"48.8422628, 2.3136097",non
+Pharmacie Necker,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.079333312012995,"48.8450393, 2.3196142",non
+Pharmacie Abbenhaim,"Quai d'Austerlitz, 75013 Paris, France",Non renseigné,non,,,3.1196730540621704,"48.8376543, 2.3732405",non
+Pharmacie Saint-Placide,"Rue Saint-Placide, 75006 Paris, France",Non renseigné,non,,,3.1247446904068763,"48.8473381, 2.3262637",non
+Pharmacie Vouillé Convention,"Square Frédéric Vallois, 75015 Paris, France",Non renseigné,non,,,3.127819208552016,"48.8354359, 2.3030976",non
+Pharmacie du Sénat,"Rue de Vaugirard, 75006 Paris, France",Non renseigné,non,,,3.1366069528316154,"48.8488007, 2.3403871",non
+Pharmacie Buffon,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.169316996610728,"48.8426643, 2.3119904",non
+Pharmacie Loireau,"Place Josette et Maurice Audin, 75005 Paris, France",Non renseigné,non,,,3.1703935193358466,"48.84804, 2.351166",non
+Pharmacie Canillac,"Rue Mayet, 75006 Paris, France",Non renseigné,non,,,3.171002169435639,"48.8460135, 2.3197443",non
+Pharmacie 5,"Rue de la Montagne Sainte-Geneviève, 75005 Paris, France",Non renseigné,non,,,3.1989678061188624,"48.8487137, 2.3486754",non
+Rennes-Assas,"Rue d'Assas, 75006 Paris, France",Non renseigné,non,,,3.2255098792979897,"48.8487469, 2.3287439",non
+Pharmacie Farjon,"Rue La Quintinie, 75015 Paris, France",Non renseigné,non,,,3.2436591103304013,"48.8373325, 2.3031026",non
+Pharmacie de la Sorbonne,"Rue des Écoles, 75005 Paris, France",Non renseigné,non,,,3.2674832109285132,"48.8498647, 2.3434385",non
+Pharmacie Convention,"Rue de la Convention, 75015 Paris, France",+33 1 48 28 96 98,non,,,3.279970984997047,"48.835778, 2.3009796",non
+Pharmacie Bravo,"Rue du Cherche-Midi, 75006 Paris, France",Non renseigné,non,,,3.283513142205093,"48.8485186, 2.324786",non
+Pharmacie Ryziger,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.2894337081199083,"48.8414668, 2.3075456",non
+Pharmacie Autissier,"Rue du Cherche-Midi, 75006 Paris, France",Non renseigné,non,,,3.323720833227483,"48.8489974, 2.3252251",non
+Pharmacie Centrale Seine,"Boulevard du Général d'Armée Jean Simon, 75013 Paris, France",Non renseigné,non,,,3.3237663337606436,"48.8262019, 2.3839968",non
+Pharmacie Koch,"Boulevard Saint-Germain, 75005 Paris, France",Non renseigné,non,,,3.347750379944058,"48.8498601, 2.3501727",non
+Pharmacie Vaugirard,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.35129202155711,"48.8406121, 2.3051658",non
+Pharmacie des Deux Rives,"Boulevard Saint-Germain, 75005 Paris, France",Non renseigné,non,,,3.3559085998512206,"48.849326, 2.353462",non
+Pharmacie de Sèvres,"Rue Saint-Jean-Baptiste de la Salle, 75006 Paris, France",Non renseigné,non,,,3.3559429713988616,"48.8477564, 2.3193946",non
+Pharmacy Lafragette,"Rue de Sèvres, 75007 Paris, France",Non renseigné,non,,,3.3707187323873025,"48.8475959, 2.3184518",non
+Pharmacie de Bercy,"Rue Villiot, 75012 Paris, France",Non renseigné,non,,,3.408717396315641,"48.84109, 2.3740378",non
+Pharmacie du Marché,"Rue Marmontel, 75015 Paris, France",+33 1 48 28 67 92,non,,,3.4202911750937077,"48.836517, 2.2994177",non
+Pharmacie Sitruk,"Rue Lecourbe, 75015 Paris, France",Non renseigné,non,,,3.4293508701851976,"48.8447637, 2.3102862",non
+Pharmacie du Quartier Latin,"Rue Saint-Jacques, 75005 Paris, France",Non renseigné,non,,,3.4329395106418636,"48.8511726, 2.345929",non
+Pharmacie Danan,"Rue Cambronne, 75015 Paris, France",Non renseigné,non,,,3.437533103699249,"48.8409327, 2.3040247",non
+Pharmacie Devos,"Rue Saint-Sulpice, 75006 Paris, France",Non renseigné,non,,,3.444024984440443,"48.8515303, 2.336934",non
+Pharmacie Notre-Dame,"Rue des Trois Portes, 75005 Paris, France",Non renseigné,non,,,3.467159740052256,"48.8512339, 2.3482344",non
+Pharmacie Casajuane Vitte,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.5002541090771744,"48.8397449, 2.3014421",non
+Pharmacie Delpech,"Rue Danton, 75006 Paris, France",Non renseigné,non,,,3.525576161459578,"48.8522729, 2.3416094",non
+Pharmacie Gamma,"Rue Van Gogh, 75012 Paris, France",Non renseigné,non,,,3.5298688322382885,"48.8438487, 2.3722372",non
+Pharmacie Lecrubier,"Rue François Bonvin, 75015 Paris, France",Non renseigné,non,,,3.5325632341618802,"48.8438998, 2.3065923",non
+Pharmacie Delpech,"Rue Serpente, 75006 Paris, France",Non renseigné,non,,,3.5411892607264392,"48.8524003, 2.3420103",non
+Pharmacie Kries,"Rue Blomet, 75015 Paris, France",Non renseigné,non,,,3.542999053139621,"48.8416259, 2.3030314",non
+Pharmacie Paris Rive Gauche,"10-12 Boulevard Saint-Michel, 75005 Paris, France",+33 1 43 26 92 66,non,,,3.5569270672302977,"48.8524783, 2.3434253",non
+Pharmacie Vaugirard,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.558773854224428,"48.838506, 2.2991038",non
+Pharmacie Cohen,"Rue Olivier de Serres, 75015 Paris, France",Non renseigné,non,,,3.565169670345814,"48.8344319, 2.2954625",non
+CityPharma,"Rue du Four, 75006 Paris, France",+33 1 46 33 06 09,non,,,3.6012221167712566,"48.8527413, 2.3333559",non
+Pharmacie de Babylone,"Rue de Babylone, 75007 Paris, France",Non renseigné,non,,,3.6108854985022316,"48.851809, 2.3257668",non
+Pharmacie Gaumerais,"Boulevard Lefebvre, 75015 Paris, France",Non renseigné,non,,,3.6120847661792825,"48.8310482, 2.29268",non
+Pharmacie Faldini,"Rue du Four, 75006 Paris, France",Non renseigné,non,,,3.615416154101484,"48.8529806, 2.3349262",non
+Pharmacie de Breteuil,"Rue Valentin Haüy, 75015 Paris, France",+33 1 47 34 14 85,non,,,3.62339481675784,"48.847164, 2.3107279",non
+Pharmacie Lecourbe Cambronne,"112 Rue Lecourbe, 75015 Paris, France",+33 1 47 34 05 52,non,,,3.6420911784843715,"48.8427695, 2.3027722",non
+Grande Pharmacie Hahnemann,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.6451667724155734,"48.8370582, 2.2963339",non
+Pharmacie Joussain,"Rue Valentin Haüy, 75015 Paris, France",Non renseigné,non,,,3.6464628508503694,"48.8465112, 2.3088641",non
+Pharmacie Jacqueminet,"Rue Blomet, 75015 Paris, France",Non renseigné,non,,,3.646553368189809,"48.8406048, 2.2999249",non
+Pharmacie de la Rapée,"Avenue Ledru-Rollin, 75012 Paris, France",+33143430996,non,,,3.663169738639213,"48.8468034, 2.3697331",non
+Pharmacie Saint-Germain des Prés,"Rue Gozlin, 75006 Paris, France",Non renseigné,non,,,3.6696874762961826,"48.8533699, 2.3334602",non
+Pharmacie du Parc,"Rue George Gershwin, 75012 Paris, France",Non renseigné,non,,,3.6992697370195415,"48.8359778, 2.3842126",non
+Pharmacie Coppola,"Rue Dauphine, 75006 Paris, France",Non renseigné,non,,,3.703850148626275,"48.8539071, 2.3387894",non
+Pharmacie Schafler,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.7150785250024083,"48.8362406, 2.2945531",non
+Pharmacie Centrale de l'Île Saint Louis,"14 Rue des Deux Ponts, 75004 Paris, France",Non renseigné,non,,,3.7178558369662174,"48.8520048, 2.3568332",non
+Pharmacie du Train Bleu,"Boulevard Diderot, 75012 Paris, France",Non renseigné,non,,,3.7521961889801534,"48.8459819, 2.3731803",non
+Pharmacie de l'Île Saint-Louis,"Rue Jean du Bellay, 75004 Paris, France",+33 1 43 54 39 09,non,,,3.7580399491089893,"48.8530406, 2.3538",non
+Grande Pharmacie du Départ,"Rue Parrot, 75012 Paris, France",Non renseigné,non,,,3.760539216609078,"48.8465693, 2.3723121",non
+Pharmacie de Seine,"Rue de Seine, 75006 Paris, France",Non renseigné,non,,,3.769710718793971,"48.8544646, 2.336987",non
+Pharmacie Andarelli,"Rue de Babylone, 75007 Paris, France",Non renseigné,non,,,3.7800327786048413,"48.8517918, 2.3188642",non
+Pharmacie Le Corre,"Rue de la Convention, 75015 Paris, France",Non renseigné,non,,,3.791256882956442,"48.8378457, 2.2947209",non
+Pharmacie Desnouettes,"Place Henri Rollet, 75015 Paris, France",Non renseigné,non,,,3.8008388244846314,"48.8360215, 2.2930618",non
+Pharmacie Zgorski Annie,"Rue Jacob, 75006 Paris, France",Non renseigné,non,,,3.810038298843291,"48.854802, 2.3362572",non
+Pharmacie de Saxe,"Rue Albert de Lapparent, 75007 Paris, France",Non renseigné,non,,,3.8348822894111416,"48.8485448, 2.3086944",non
+Pharmacie Saint-Lambert,"Rue Lecourbe, 75015 Paris, France",Non renseigné,non,,,3.858902633251898,"48.8409279, 2.296672",non
+Pharmacie De La Porte De Versailles,"Rue de Vaugirard, 75015 Paris, France",Non renseigné,non,,,3.877520526069332,"48.8338833, 2.2904242",non
+Pharmacie Faval,"Boulevard Garibaldi, 75015 Paris, France",+33 1 43 06 04 94,non,,,3.8800095958046685,"48.847152, 2.3050056",non
+Pharmacie de Varenne,"Rue de Varenne, 75007 Paris, France",Non renseigné,non,,,3.8847050480103977,"48.854037, 2.324019",non
+Pharmacie Mesnard,"Avenue de Breteuil, 75007 Paris, France",Non renseigné,non,,,3.8909048957304115,"48.8503908, 2.3115133",non
+Pharmacie Nouvelle de Lyon,"Rue Jules César, 75012 Paris, France",Non renseigné,non,,,3.8926272735314957,"48.8488819, 2.3707431",non
+Pharmacie de la Place,"14 Place Lachambeaudie, 75012 Paris, France",Non renseigné,non,,,3.9230728211077253,"48.8361512, 2.3875057",non
+Pharmacie de la Gare de Lyon,"Boulevard Diderot, 75012 Paris, France",Non renseigné,non,,,3.929713382439266,"48.8460166, 2.3767039",non
+Pharmacie Henri IV,"Boulevard Henri IV, 75004 Paris, France",Non renseigné,non,,,3.963093408959097,"48.8520514, 2.3648715",non
+Boubert,"Rue Jacob, 75006 Paris, France",+33 1 42 60 27 37,non,,,3.964724557133914,"48.8559914, 2.3328172",non
+Pharmacie Bac Grenelle,"Rue du Bac, 75007 Paris, France",Non renseigné,non,,,3.977744292161846,"48.8549878, 2.3244237",non
+Pharmacie Villa Croix Nivert,"Villa Croix Nivert, 75015 Paris, France",Non renseigné,non,,,3.995481489441122,"48.845498, 2.3000417",non
+Grande Pharmacie du Bac,"Rue du Bac, 75007 Paris, France",Non renseigné,non,,,4.026321901895176,"48.8555547, 2.3250424",non
+Pharmacie Place Cambronne,"Place Cambronne, 75015 Paris, France",Non renseigné,non,,,4.056099455405025,"48.8474822, 2.3019418",non
+Pharmacie Cambronne - Croix Nivert,"Rue de la Croix Nivert, 75015 Paris, France",Non renseigné,non,,,4.089618632846669,"48.8468677, 2.3002919",non
+Pharmacie Visot,"Rue de Charenton, 75012 Paris, France",Non renseigné,non,,,4.095267179116362,"48.8473444, 2.3778677",non
+Pharmacie Bellaiche,"Accès Parking Bac-Montalembert, 75007 Paris, France",Non renseigné,non,,,4.0960517290943255,"48.856516, 2.3269654",non
+Pharmacie Bénichou,"Avenue de Lowendal, 75015 Paris, France",Non renseigné,non,,,4.096921652867049,"48.8485548, 2.3029374",non
+Pharmacie Ledru-Rollin,"Avenue Ledru-Rollin, 75012 Paris, France",Non renseigné,non,,,4.097381297716488,"48.8496158, 2.3739071",non
+Pharmacie Diderot,"Place Ady et Gilberte Steg, 75012 Paris, France",Non renseigné,non,,,4.099070094776856,"48.8463393, 2.3794911",non
+Pharmacie de la Poste,"Rue du Théâtre, 75015 Paris, France",+33 1 48 28 31 14,non,,,4.113664116637667,"48.8452107, 2.2974384",non
+Pharmacie du Marais Saint-Paul,"Rue François Miron, 75004 Paris, France",Non renseigné,non,,,4.121358058827632,"48.855906, 2.3565385",non
+Pharmacie Rivoli,"Rue Tiron, 75004 Paris, France",Non renseigné,non,,,4.130021172642689,"48.8556698, 2.3579861",non
+Pharmacie Saint-Paul,"Rue Saint-Antoine, 75004 Paris, France",Non renseigné,non,,,4.133758604752676,"48.854295, 2.3632625",non
+Pharmacie du Marais,"Passage Charlemagne, 75004 Paris, France",Non renseigné,non,,,4.13375886715692,"48.8550979, 2.3604486",non
+Pharmacie Battino-Borgel,"Rue du Petit Musc, 75004 Paris, France",+33 1 42 72 04 75,non,,,4.136199488877319,"48.8535577, 2.3656033",non
+Nom inconnu,"Rue Émilio Castelar, 75012 Paris, France",Non renseigné,non,,,4.142416607435176,"48.8489281, 2.3761561",non
+Nom inconnu,"Rue de Rivoli, 75004 Paris, France",Non renseigné,non,,,4.1455408243082,"48.8557999, 2.3580633",non
+Pharmacie du Viaduc,"Rue de Charenton, 75012 Paris, France",Non renseigné,non,,,4.146542550063037,"48.8447988, 2.3825028",non
+Pharmacie de la Mairie,"Avenue Daumesnil, 75012 Paris, France",Non renseigné,non,,,4.176648210998381,"48.841628, 2.3866804",non
+Pharmacie des Archives,"Rue des Archives, 75004 Paris, France",+33 1 42784556,non,,,4.201161565203747,"48.8571121, 2.3541574",non
+Pharmacie Dichamp,"1 Boulevard de Reuilly, 75012 Paris, France",Non renseigné,non,,,4.20384456649182,"48.8392597, 2.3893476",non
+Pharmacie Baruc,"Rue Lecourbe, 75015 Paris, France",Non renseigné,non,,,4.207447527502862,"48.8385021, 2.2887611",non
+Pharmacie des Tournelles,"Rue des Tournelles, 75004 Paris, France",Non renseigné,non,,,4.223438324398472,"48.8538727, 2.3672318",non
+Pharmacie de la Place,"Rue Érard, 75012 Paris, France",Non renseigné,non,,,4.231058551298408,"48.8449265, 2.383849",non
+Pharmacie Convention Croix Nivert,"Rue de la Convention, 75015 Paris, France",Non renseigné,non,,,4.2315472643047185,"48.8403852, 2.290018",non
+Pharmacie Dang Trung,"Rue Taine, 75012 Paris, France",Non renseigné,non,,,4.233213209433153,"48.8374325, 2.3912706",non
+Nom inconnu,"Rue Desnouettes, 75015 Paris, France",Non renseigné,non,,,4.240190689104549,"48.8352624, 2.2859287",non
+Pharmacie Bac-Verneuil,"Rue de Verneuil, 75007 Paris, France",+33 1 42 61 27 62,non,,,4.251541791584109,"48.8581429, 2.3283966",non
+Grande Pharmacie du Commerce,"Rue du Commerce, 75015 Paris, France",Non renseigné,non,,,4.258095925590759,"48.8441746, 2.2935563",non
+Pharmacie de la Mairie,"Rue de la Verrerie, 75004 Paris, France",Non renseigné,non,,,4.259263949351909,"48.8576477, 2.3541855",non
+Pharmacie Homéopathique Ledru-Rollin,"Entrée Parking Faubourg Saint-Antoine, 75012 Paris, France",+33 1 43 47 31 30,non,,,4.264030222346145,"48.8507899, 2.3753227",non
+Pharmacie de la Tour,"18 Rue Saint-Martin, 75004 Paris, France",Non renseigné,non,,,4.265705557981979,"48.8583224, 2.3500024",non
+Pharmaligre,"Place d'Aligre, 75012 Paris, France",Non renseigné,non,,,4.274421074285162,"48.8491906, 2.3784376",non
+Pharmacie Centrale de la Bastille,"Boulevard Beaumarchais, 75004 Paris, France",+33 1 42 72 38 31,non,,,4.291863954517555,"48.8540855, 2.368565",non
+Pharmacie Félix Faure,"Rue de Javel, 75015 Paris, France",Non renseigné,non,,,4.296044606800605,"48.8420447, 2.2905797",non
+Pharmacie des lions,"11 Boulevard de Reuilly, 75012 Paris, France",Non renseigné,non,,,4.2999442248180975,"48.8393313, 2.3907917",non
+Pharmacie Bénad,"Rue Vieille du Temple, 75004 Paris, France",Non renseigné,non,,,4.300469641045164,"48.8573803, 2.3575668",non
+Nom inconnu,"84 Rue du Faubourg Saint-Antoine, 75012 Paris, France",Non renseigné,non,,,4.3088508891610084,"48.8514184, 2.3750887",non
+Pharmacie Bove,"Rue Las Cases, 75007 Paris, France",Non renseigné,non,,,4.317057190826154,"48.8577488, 2.3222584",non
+Grande Pharmacie de Bercy,"Rue de Wattignies, 75012 Paris, France",Non renseigné,non,,,4.319655213950438,"48.8365312, 2.3932203",non
+Pharmacie Centrale,"Rue du Commerce, 75015 Paris, France",+33 1 45 79 75 01,non,,,4.3223263500199565,"48.8463953, 2.2952233",non
+Pharmacie Solférino,"Rue Saint-Dominique, 75007 Paris, France",Non renseigné,non,,,4.33740375212201,"48.8581195, 2.3231884",non
+Pharmacie des Halles,"Boulevard de Sébastopol, 75004 Paris, France",+33 1 42 72 03 23,non,,,4.345533534764981,"48.8591816, 2.3488558",non
+Pharmacie Monge,"Rue du Commerce, 75015 Paris, France",Non renseigné,non,,,4.364021346005743,"48.848341, 2.2972236",non
+Pharmacie EIFFEL COMMERCE - Paris 15,"Rue du Commerce, 75015 Paris, France",+33145753335,non,,,4.364604046104944,"48.848326, 2.2971896",non
+Pharmacie Fréva,"Avenue de la Motte-Picquet, 75015 Paris, France",Non renseigné,non,,,4.372284220990922,"48.8497643, 2.2993321",non
+Pharmacie Froux,"88 Boulevard Diderot, 75012 Paris, France",Non renseigné,non,,,4.374720710179164,"48.8468182, 2.3839633",non
+Pharmacie Opéra-Bastille,"Boulevard Richard-Lenoir, 75011 Paris, France",+33 1 47 00 49 44,non,,,4.3765142797561145,"48.8543674, 2.3701218",non
+Pharmacie Blondin,"Rue Oscar Roty, 75015 Paris, France",Non renseigné,non,,,4.38270334431891,"48.8415387, 2.2886727",non
+Pharmacie de Reuilly,"Boulevard de Reuilly, 75012 Paris, France",Non renseigné,non,,,4.394405416387703,"48.8394543, 2.392161",non
+Pharmacie du Pont Neuf,"Rue du Pont Neuf, 75001 Paris, France",Non renseigné,non,,,4.397172179038707,"48.8600139, 2.3442832",non
+Pharmacie Générale,"Rue de Charonne, 75011 Paris, France",Non renseigné,non,,,4.399364561236704,"48.8526937, 2.3745521",non
+Pharmacie de la Semeuse,"Rue du Faubourg Saint-Antoine, 75011 Paris, France",Non renseigné,non,,,4.4000955226924425,"48.8509655, 2.3779483",non
+Louvre Rivoli,"Rue de Rivoli, 75001 Paris, France",Non renseigné,non,,,4.409707645642047,"48.8601609, 2.3436021",non
+Pharmacie du Village,"Rue du Temple, 75004 Paris, France",Non renseigné,non,,,4.411151327272318,"48.8591061, 2.3538958",non
+Pharmacie Bourgogne,"Rue de Grenelle, 75007 Paris, France",Non renseigné,non,,,4.41405236281873,"48.8576298, 2.317667",non
+Pharmacie Boucicaut,"Avenue Félix Faure, 75015 Paris, France",Non renseigné,non,,,4.414668634464066,"48.8407805, 2.2874611",non
+Pharmacie Meyer Pointsot,"Rue de Turenne, 75003 Paris, France",Non renseigné,non,,,4.430707160571177,"48.8569223, 2.3642921",non
+Pharmacie Montgallet,"Rue Riesener, 75012 Paris, France",Non renseigné,non,,,4.434549490705813,"48.8429335, 2.3895933",non
+Pharmacie Sebbag-Allouche,"97 Avenue Ledru-Rollin, 75011 Paris, France",Non renseigné,non,,,4.434635026580029,"48.8521689, 2.3764262",non
+Pharmacie de l'École Militaire,"Avenue de Tourville, 75007 Paris, France",Non renseigné,non,,,4.44433725996266,"48.8542822, 2.3067078",non
+Pharmacie de Suffren,"Avenue de Champaubert, 75015 Paris, France",Non renseigné,non,,,4.463985083504923,"48.8513862, 2.3002551",non
+Pharmacie Darmon,"Avenue Émile Zola, 75015 Paris, France",Non renseigné,non,,,4.478194040032124,"48.8467692, 2.2928941",non
+Pharmacie du Temple,"43 Rue du Temple, 75004 Paris, France",Non renseigné,non,,,4.481205324840122,"48.8597261, 2.354074",non
+Pharmacie d'Orsay,"Rue de Bellechasse, 75007 Paris, France",Non renseigné,non,,,4.494063114863211,"48.8597592, 2.3242049",non
+Pharmacie du Square Violet,"Rue des Entrepreneurs, 75015 Paris, France",Non renseigné,non,,,4.507784027031037,"48.8447636, 2.2899499",non
+Pharmacie Bonnel,"Avenue de la Motte-Picquet, 75007 Paris, France",Non renseigné,non,,,4.5175620198217565,"48.8554465, 2.3076645",non
+Univers Pharmacie,"24 Boulevard de Sébastopol, 75004 Paris, France",+33 1 48 87 62 30,non,,,4.522532121764526,"48.8607, 2.3497286",non
+Boucicaut,"Rue Sarasate, 75015 Paris, France",Non renseigné,non,,,4.538232586909977,"48.8418755, 2.2864904",non
+Pharmacie Saint-Honoré,"Rue Saint-Honoré, 75001 Paris, France",Non renseigné,non,,,4.545233812815047,"48.8614363, 2.3421459",non
+Pharmacie Celnik,"116 Avenue Ledru-Rollin, 75011 Paris, France",+33 1 49 29 74 75,non,,,4.546912521754154,"48.8529881, 2.3773247",non
+Pharmacie Steuer,"Rue du Faubourg Saint-Antoine, 75011 Paris, France",Non renseigné,non,,,4.557802535448472,"48.8505616, 2.3818961",non
+Pharmacie du Grand Pavois,"Rue Lecourbe, 75015 Paris, France",Non renseigné,non,,,4.560891866324927,"48.8364681, 2.2819452",non
+Grande Pharmacie Saint-Charles,"Square Saint-Charles, 75012 Paris, France",Non renseigné,non,,,4.56652430722855,"48.8460415, 2.3883752",non
+Pharmacie Belda,"Rue du Chemin Vert, 75011 Paris, France",Non renseigné,non,,,4.566651473028444,"48.8569157, 2.368539",non
+Pharmacie Rambuteau,"Rue Rambuteau, 75004 Paris, France",Non renseigné,non,,,4.567393552592429,"48.8600862, 2.3565927",non
+Pharmacie du Septième,"Avenue de la Motte-Picquet, 75007 Paris, France",Non renseigné,non,,,4.571725585210707,"48.8560755, 2.3078253",non
+Pharmacie Reuilly Diderot,"Rue de Reuilly, 75012 Paris, France",Non renseigné,non,,,4.572695212748304,"48.8471042, 2.3871676",non
+Pharmacie Saint-Gilles,"Rue de Turenne, 75003 Paris, France",Non renseigné,non,,,4.583108109542025,"48.8583232, 2.364632",non
+Pharmacie du Centre Pompidou,"Rue Beaubourg, 75004 Paris, France",Non renseigné,non,,,4.601096305981845,"48.860925, 2.3534975",non
+Grande Pharmacie Daumesnil,"6 Place Félix Éboué, 75012 Paris, France",+33143431903,non,,,4.609265628408341,"48.8391455, 2.3957152",non
+Pharmacie Lourmel,"105 Avenue Félix Faure, 75015 Paris, France",+33 1 45 57 45 45,non,,,4.611060800235312,"48.8389201, 2.2828876",non
+Pharmacie Centrale Bastille,"26 Boulevard Richard-Lenoir, 75011 Paris, France",+33 1 47 00 05 00,non,,,4.617539227028739,"48.8565002, 2.3711111",non
+Pharmacie des Musées,"20 Rue Rambuteau, 75003 Paris, France",Non renseigné,non,,,4.620059388744563,"48.8609131, 2.3546841",non
+Pharmacie de Chaligny,"Rue du Faubourg Saint-Antoine, 75012 Paris, France",Non renseigné,non,,,4.624952167037813,"48.8499708, 2.3841427",non
+Pharmacie du Louvre,"Rue du Louvre, 75001 Paris, France",Non renseigné,non,,,4.628079251673607,"48.8621947, 2.3416613",non
+Pharmacie de l'Assemblée,"Rue Saint-Dominique, 75007 Paris, France",Non renseigné,non,,,4.629509125779542,"48.8598508, 2.3183041",non
+Pharmacie du Palais Royal,"Rue Saint-Honoré, 75001 Paris, France",Non renseigné,non,,,4.629644022573221,"48.8622352, 2.3395906",non
+Zola Orthopédie,"Avenue Émile Zola, 75015 Paris, France",Non renseigné,non,,,4.633268827133539,"48.8468833, 2.2902804",non
+Pharmacie Verte de Reuilly,"Place Félix Éboué, 75012 Paris, France",+33 1 43 43 24 42,non,,,4.6418936177297425,"48.840301, 2.3953091",non
+Pharmacie Beaubourg,"Rue Rambuteau, 75003 Paris, France",Non renseigné,non,,,4.658957904525402,"48.8616909, 2.351843",non
+Pharmacie 77 Picquet-Grenelle,"Boulevard de Grenelle, 75015 Paris, France",Non renseigné,non,,,4.661162867321835,"48.8503953, 2.2946035",non
+Pharmacie de l'Avenue Suffren,"55 Avenue de Suffren, 75007 Paris, France",Non renseigné,non,,,4.6736119003755725,"48.8528662, 2.2984786",non
+Pharma Best,"Rue Rambuteau, 75001 Paris, France",+33 1 40 41 91 45,non,,,4.6869398329419445,"48.862445, 2.3470989",non
+Pharmacie centrale Roquette,"51 bis Rue de la Roquette, 75011 Paris, France",Non renseigné,non,,,4.702520339006103,"48.8558314, 2.3749424",non
+Pharmacie Lamblardie,"Rue Lamblardie, 75012 Paris, France",+33143438797,non,,,4.740119065273042,"48.8400449, 2.3970276",non
+Pharmacie Océane Pitoun,"Rue de Lourmel, 75015 Paris, France",Non renseigné,non,,,4.741088343549006,"48.849234, 2.2914045",non
+Pharmacie Cotinat,"Rue de Grenelle, 75007 Paris, France",Non renseigné,non,,,4.751445792140522,"48.857814, 2.3074922",non
+Pharmacie Balard,"Rue Leblanc, 75015 Paris, France",Non renseigné,non,,,4.772880633712061,"48.8368695, 2.2790628",non
+Pharmacie Grenelle T Eiffel,"Rue Humblot, 75015 Paris, France",Non renseigné,non,,,4.777361847467204,"48.8508439, 2.2930393",non
+Pharmacie Beaumarchais,"Boulevard Beaumarchais, 75003 Paris, France",Non renseigné,non,,,4.783463628061486,"48.8594971, 2.367318",non
+Inter Para,"Rue du Grenier Saint-Lazare, 75003 Paris, France",Non renseigné,non,,,4.786799885819246,"48.8625852, 2.3538494",non
+Pharmacie Breton,"Rue Tourneux, 75012 Paris, France",Non renseigné,non,,,4.7901152620408975,"48.8379895, 2.3992701",non
+Pharmacie Bosquet Grenelle,"Rue de Grenelle, 75007 Paris, France",Non renseigné,non,,,4.795154361484511,"48.8571424, 2.30461",non
+Pharmacie 54 Beaubourg,"Rue Michel le Comte, 75003 Paris, France",Non renseigné,non,,,4.81530625078413,"48.8627476, 2.3545113",non
+Pharmacie de la Banque,"Rue Croix des Petits Champs, 75001 Paris, France",Non renseigné,non,,,4.820588328029628,"48.8639497, 2.3401609",non
+Pharmacie de la Bourdonnais,"Avenue de la Bourdonnais, 75007 Paris, France",Non renseigné,non,,,4.8228354361695995,"48.8562829, 2.301939",non
+Pharmacie du Théâtre Français,"Place André Malraux, 75001 Paris, France",Non renseigné,non,,,4.8346426167761045,"48.864011, 2.335707",non
+Les Artisans du Faubourg,"238 Rue du Faubourg Saint-Antoine, 75012 Paris, France",+33 1 43 72 42 79,non,,,4.8374276206609546,"48.8492576, 2.3891263",non
+Pharmacie Faidherbe Charonne,"Rue de Charonne, 75011 Paris, France",Non renseigné,non,,,4.840045526395569,"48.8537646, 2.3822311",non
+Pharmacie 58,"Avenue du Général Michel Bizot, 75012 Paris, France",Non renseigné,non,,,4.846077520500451,"48.8352037, 2.401774",non
+La Grande Pharmacie du XVème,"Rue du Général Estienne, 75015 Paris, France",Non renseigné,non,,,4.85428444505078,"48.8444593, 2.2838616",non
+Pharmarket Beaugrenelle,"Avenue Émile Zola, 75015 Paris, France",Non renseigné,non,,,4.864397482752526,"48.8464239, 2.2857557",non
+Pharmacie Saint-Eustache,"23 Rue Montorgueil, 75001 Paris, France",Non renseigné,non,,,4.866133900353636,"48.8641153, 2.3464533",non
+Pharmacie Charles Michels,"Avenue Émile Zola, 75015 Paris, France",Non renseigné,non,,,4.867915149630437,"48.8468474, 2.2861719",non
+Pharmacie Paul Bert,"Rue Paul Bert, 75011 Paris, France",Non renseigné,non,,,4.8701638410677335,"48.8525035, 2.3849901",non
+Pharmacie Convention Saint-Charles,"Rue de la Convention, 75015 Paris, France",Non renseigné,non,,,4.875455683147578,"48.8436183, 2.2827088",non
+Pharmacie Saint-Charles,"Rue Saint-Charles, 75015 Paris, France",Non renseigné,non,,,4.87803526797865,"48.8443378, 2.2833554",non
+Pharmacie Louvre Victoire,"7 Rue Coq Héron, 75001 Paris, France",+33142331150,non,,,4.878069333643856,"48.864427, 2.3423345",non
+Grande Pharmacie de Turenne,"Rue de Poitou, 75003 Paris, France",Non renseigné,non,,,4.878925140644661,"48.8612625, 2.3644482",non
+Pharmacie de la Comète,"Rue Saint-Dominique, 75007 Paris, France",+33 1 45 51 63 67,non,,,4.890835438863684,"48.8597581, 2.3089643",non
+Pharmacie Mirabeau,"Rue des Cévennes, 75015 Paris, France",Non renseigné,non,,,4.893189114531614,"48.8423693, 2.2813032",non
+Pharmacie du Théâtre,"Rue du Théâtre, 75015 Paris, France",Non renseigné,non,,,4.899326982453176,"48.8488277, 2.2880032",non
+Pharmacie des Écoles,"Rue de Picpus, 75012 Paris, France",Non renseigné,non,,,4.921388658887542,"48.842554, 2.3977804",non
+Pharmacie Les Filles du Calvaire,"2 Boulevard des Filles du Calvaire, 75011 Paris, France",+33147008144,non,,,4.925593548881775,"48.8608281, 2.3675773",non
+Pharmacie Israël,"Rue de la Roquette, 75011 Paris, France",+33143797854,non,,,4.928498509634341,"48.8569115, 2.3780166",non
+Grande Pharmacie de Grenelle,"39 Boulevard de Grenelle, 75015 Paris, France",+33 1 45 79 53 19,non,,,4.932217962071895,"48.8519426, 2.2917149",non
+Pharmacie des Pyramides,"Rue Saint-Honoré, 75001 Paris, France",Non renseigné,non,,,4.935041940032005,"48.8647572, 2.3326227",non
+Pharmacie de l'Héliport,"Allée des Frères Voisin, 75015 Paris, France",Non renseigné,non,,,4.9362303331433806,"48.8286573, 2.2730915",non
+Pharmacie Mutualiste,"29 Rue de Turbigo, 75002 Paris, France",Non renseigné,non,,,4.943378966609609,"48.8644149, 2.3508382",non
+Pharmacie du Métro Michel Bizot,"Rue de Picpus, 75012 Paris, France",Non renseigné,non,,,4.944405691796853,"48.836896, 2.4022462",non
+Pharmacie de la Poste,"44 Rue Montmartre, 75002 Paris, France",Non renseigné,non,,,4.953332629942981,"48.8649842, 2.3451707",non
+Pharmacie Saint Dominique,"Rue Saint-Dominique, 75007 Paris, France",+33 1 47 05 58 54,non,,,4.959292157399647,"48.8595893, 2.3064959",non
+Pharmacie 164,"164 Avenue Ledru-Rollin, 75011 Paris, France",Non renseigné,non,,,4.962798425868988,"48.8566193, 2.379442",non
+Pharmacie Drai et Souffir,"Rue Louis Braille, 75012 Paris, France",Non renseigné,non,,,4.971321871759096,"48.8398366, 2.4007072",non
+Pharmacie de Bretagne,"Rue de Saintonge, 75003 Paris, France",+33142784331,non,,,4.985182388971865,"48.8625296, 2.3635149",non
+Pharmacie du Marché Montorgueil,"51 Rue Montorgueil, 75002 Paris, France",Non renseigné,non,,,4.985377004901262,"48.8651691, 2.3468025",non
+Parapharmacie Eiffel Para,"Avenue de Suffren, 75015 Paris, France",Non renseigné,non,,,5.000742950994872,"48.8547824, 2.2949979",non
+Pharmacie Parisienne,"Rue Saint-Dominique, 75007 Paris, France",Non renseigné,non,,,5.00078536097736,"48.8589842, 2.3037923",non
+Pharmacie du Temple,"Rue du Temple, 75003 Paris, France",Non renseigné,non,,,5.002153324339066,"48.8637905, 2.3585155",non
+Pharmacie Chevreul,"305 Rue du Faubourg Saint-Antoine, 75011 Paris, France",+33 1 40 61 95 44,non,,,5.0066663188923455,"48.8490702, 2.3923943",non
+Pharmacie Charret,"Rue de Beauce, 75003 Paris, France",Non renseigné,non,,,5.009957375678498,"48.8632446, 2.3614945",non
+Pharmacie Péron,"Rue Saint-Dominique, 75007 Paris, France",Non renseigné,non,,,5.019185462774503,"48.8583642, 2.3018327",non
+Pharmacie du Champs de Mars,"Rue Saint-Dominique, 75007 Paris, France",Non renseigné,non,,,5.026903471506152,"48.8579304, 2.3006577",non
+Pharmacie Centrale du XIe,"Rue de la Roquette, 75011 Paris, France",Non renseigné,non,,,5.047506217619757,"48.8575297, 2.3795048",non
+Pharmacie Voltaire-Charonne,"180 Boulevard Voltaire, 75011 Paris, France",Non renseigné,non,,,5.0495797404754725,"48.8548396, 2.3847227",non
+Grande Pharmacie Popincourt,"Rue Popincourt, 75011 Paris, France",Non renseigné,non,,,5.051219674627034,"48.8591105, 2.376008",non
+Pharmacie 257,"257 Avenue Daumesnil, 75012 Paris, France",+33 1 43 43 53 10,non,,,5.051306268821134,"48.8367822, 2.4038793",non
+Pharmacie Benhamou,"2 Place de la Nation, 75012 Paris, France",Non renseigné,non,,,5.057484335327485,"48.8483622, 2.3941331",non
+Aprium Pharmacie Montorgueil,"67 Rue Montorgueil, 75002 Paris, France",Non renseigné,non,,,5.072155021204227,"48.8659432, 2.3469549",non
+Pharmacie Fabre d'Églantine,"Place de la Nation, 75012 Paris, France",Non renseigné,non,,,5.086762292834038,"48.8472188, 2.3959207",non
+Pharmacie Voltaire Nation,"264 Boulevard Voltaire, 75011 Paris, France",+33 1 43 73 51 73,non,,,5.091221525315454,"48.8500297, 2.392688",non
+Pharmacie des Arts et Métiers,"98 Rue Beaubourg, 75003 Paris, France",+33148879835,non,,,5.091721072442103,"48.8651032, 2.3557846",non
+ApriumPharmacie Voltaire-Dumas,"Rue Alexandre Dumas, 75011 Paris, France",Non renseigné,non,,,5.098248932145291,"48.8528943, 2.3888471",non
+Pharmacie des Cévennes,"Rue Balard, 75015 Paris, France",Non renseigné,non,,,5.100855118720764,"48.8421144, 2.2778529",non
+Pharmacie Saint-Honoré,"Rue du Marché Saint-Honoré, 75001 Paris, France",Non renseigné,non,,,5.103630614218956,"48.8661759, 2.3311515",non
+Pharmacie des Petits Champs,"21 Rue des Petits Champs, 75001 Paris, France",Non renseigné,non,,,5.104299489003866,"48.8664904, 2.337698",non
+Grande Pharmacie Voltaire,"113 Boulevard Voltaire, 75011 Paris, France",Non renseigné,non,,,5.1084071471615795,"48.857458, 2.3810663",non
+Pharmacie Canonne Réaumur,"90 Boulevard de Sébastopol, 75003 Paris, France",Non renseigné,non,,,5.122588900823701,"48.8658467, 2.3525632",non
+Grande pharmacie de Charonne,"Rue de Charonne, 75011 Paris, France",Non renseigné,non,,,5.140825782418317,"48.8550055, 2.3863197",non
+Pharmacie Michon,"Rue du Théâtre, 75015 Paris, France",Non renseigné,non,,,5.148721843756632,"48.8501938, 2.2852966",non
+Pharmacie Moderne du Sentier,"7 Rue des Petits Carreaux, 75002 Paris, France",+33 1 45 08 53 16,non,,,5.159908623726,"48.8667273, 2.347091",non
+Victoire Opéra,"Rue des Petits Champs, 75002 Paris, France",Non renseigné,non,,,5.160984314710905,"48.8669671, 2.3362355",non
+Pharmacie du front de seine,"Rue Robert de Flers, 75015 Paris, France",Non renseigné,non,,,5.163996573174672,"48.8504248, 2.2853175",non
+Pharmacie de la Porte Dorée,"Boulevard Poniatowski, 75012 Paris, France",Non renseigné,non,,,5.1717764583954065,"48.8349908, 2.4065836",non
+Pharmacie des deux boulevards,"Boulevard Richard-Lenoir, 75011 Paris, France",Non renseigné,non,,,5.176857812089654,"48.8615812, 2.3729669",non
+Pharmacie Brisebarre,"Rue Edmond Valentin, 75007 Paris, France",+33 1 47 05 41 25,non,,,5.177037835833384,"48.8597553, 2.3011269",non
+Pharmacie du Cirque d'Hiver,"Rue de Crussol, 75011 Paris, France",Non renseigné,non,,,5.18876551956062,"48.863653, 2.3667474",non
+Pharmacie de Bir-Hakeim,"Boulevard de Grenelle, 75015 Paris, France",Non renseigné,non,,,5.206323105968917,"48.853708, 2.2890997",non
+Pharmacie Bleue,"Boulevard Voltaire, 75011 Paris, France",Non renseigné,non,,,5.215144267516989,"48.8615019, 2.3742714",non
+Pharmacie du Temple,"Boulevard du Temple, 75003 Paris, France",Non renseigné,non,,,5.217203545320105,"48.8641856, 2.3657934",non
+Apotek,"Rue de Cléry, 75002 Paris, France",Non renseigné,non,,,5.232036765161782,"48.8675096, 2.3449745",non
+Pharmacie Paris-Charonne,"Rue de Charonne, 75011 Paris, France",Non renseigné,non,,,5.246074258448877,"48.8551858, 2.3881529",non
+Pharmacie des Écoles,"Rue de la Roquette, 75011 Paris, France",Non renseigné,non,,,5.246500526700386,"48.8581689, 2.3827698",non
+Pharmacie Wizman,"Rue Oberkampf, 75011 Paris, France",+33147005161,non,,,5.261916254830049,"48.8635016, 2.3697425",non
+Pharmacie Opéra Casanova,"Rue Danielle Casanova, 75002 Paris, France",Non renseigné,non,,,5.263453213686951,"48.8677467, 2.3329845",non
+Pharmacie du Carreau du Temple,"Rue du Temple, 75003 Paris, France",Non renseigné,non,,,5.265049279769074,"48.8658405, 2.3606343",non
+Pharmacie Pedron,"70 Rue Léon Frot, 75011 Paris, France",+33 1 43 79 39 58,non,,,5.265147850200275,"48.8570258, 2.3853646",non
+Pharmacie Valet,"Boulevard de Picpus, 75012 Paris, France",Non renseigné,non,,,5.265928194332524,"48.8468405, 2.3992911",non
+Pharmacie de la Tour Eiffel,"Rue de Monttessuy, 75007 Paris, France",Non renseigné,non,,,5.268782832970036,"48.8593893, 2.2980526",non
+Pharmacie de la Nation,"Place de la Nation, 75011 Paris, France",Non renseigné,non,,,5.289900875356596,"48.8489464, 2.3974432",non
+Pharmacie des simples,"Rue de la Folie-Méricourt, 75011 Paris, France",Non renseigné,non,,,5.300438608376897,"48.8626208, 2.3735952",non
+Pharmacie du Bataclan,"Boulevard Voltaire, 75011 Paris, France",Non renseigné,non,,,5.302817201424837,"48.8640464, 2.369279",non
+Pharmacie Lyva,"Rue du Sahel, 75012 Paris, France",Non renseigné,non,,,5.304655018301109,"48.8410178, 2.4048971",non
+Pharmacie Rive Gauche,"Avenue Émile Zola, 75015 Paris, France",Non renseigné,non,,,5.307983653347405,"48.846049, 2.278046",non
+Pharmacie Carême,"100 Boulevard de Sébastopol, 75003 Paris, France",+33 1 42 72 12 16,non,,,5.333423037791463,"48.8676501, 2.3535643",non
+Pharmacie Mirabeau,"Rond-Point du Pont Mirabeau, 75015 Paris, France",Non renseigné,non,,,5.336726624018215,"48.845643, 2.2772011",non
+Pharmacie Gardette,"Rue du Général Renault, 75011 Paris, France",+33147004679,non,,,5.338456275972167,"48.8613804, 2.3778956",non
+Pharmacie du Sentier,"247 Rue Saint-Denis, 75002 Paris, France",Non renseigné,non,,,5.341316469119174,"48.8679582, 2.3516149",non
+Pharmacie St. Maur - Desmoulins,"Rue Camille Desmoulins, 75011 Paris, France",+33143484303,non,,,5.343639498438903,"48.8593197, 2.3826479",non
+Pharmacie Métro Temple,"172 Rue du Temple, 75003 Paris, France",+33 1 42 72 12 39,non,,,5.36390541871716,"48.8665115, 2.3618921",non
+Pharmacie Voltaire,"Boulevard Voltaire, 75011 Paris, France",Non renseigné,non,,,5.367899663311357,"48.8648604, 2.3686851",non
+Boticinal - Grande Pharmacie de la Bourse,"1 Rue du Quatre Septembre, 75002 Paris, France",+33 1 42 36 16 67,non,,,5.377104820569601,"48.8689573, 2.3392078",non
+Pharmacie Picpus,"Rue Marsoulan, 75012 Paris, France",Non renseigné,non,,,5.378649744172064,"48.8451294, 2.4027346",non
+Pharmacie des Capucines,"8 Rue des Capucines, 75002 Paris, France",Non renseigné,non,,,5.401183611844926,"48.8687585, 2.3297665",non
+Pharmacie des Deux Colonnes,"Cours de Vincennes, 75020 Paris, France",+33 1 43 73 08 10,non,,,5.402972181612905,"48.8484535, 2.3998864",non
+Oberkampf - Méricourt,"Rue de la Folie-Méricourt, 75011 Paris, France",Non renseigné,non,,,5.403116927723126,"48.8644061, 2.3713501",non
+Pharmacie de la place de la République,"5 Place de la République, 75003 Paris, France",+33 1 47 00 18 08,non,,,5.414251129265077,"48.866451, 2.3643006",non
+Gaidoz Sylvie,"Rue du Chevalier de Saint-George, 75001 Paris, France",Non renseigné,non,,,5.438998002248798,"48.8686079, 2.3251595",non
+La Croix de Malte,"53 Boulevard Saint-Martin, 75003 Paris, France",Non renseigné,non,,,5.490032011028757,"48.8687618, 2.3559159",non
+Pharmacie du marché Popincourt,"Rue Jean-Pierre Timbaud, 75011 Paris, France",+33147001876,non,,,5.500135011796675,"48.8657189, 2.3702031",non
+Pharmacie du Rendez-vous,"Rue du Rendez-Vous, 75012 Paris, France",Non renseigné,non,,,5.501641636199237,"48.8453589, 2.4044766",non
+Pharmacie Dufour,"Rue Marsoulan, 75012 Paris, France",Non renseigné,non,,,5.504691448963096,"48.8468431, 2.4031703",non
+Grande Pharmacie du XXe,"Rue Auger, 75020 Paris, France",Non renseigné,non,,,5.508857910188696,"48.850918, 2.3989279",non
+Phamarcie du 58,"Rue Oberkampf, 75011 Paris, France",+33 1 47 00 65 02,non,,,5.515410375570251,"48.8647779, 2.3736671",non
+Pharmacie Netter,"Avenue du Docteur Arnold Netter, 75012 Paris, France",Non renseigné,non,,,5.51680235133648,"48.844461, 2.4054819",non
+Grande Pharmacie Saint-Maur,"Rue Saint-Maur, 75011 Paris, France",++33147003077,non,,,5.53159813781654,"48.8628288, 2.3793549",non
+Pharmacie du Globe,"19 Boulevard de Bonne Nouvelle, 75002 Paris, France",Non renseigné,non,,,5.553503267222398,"48.8700432, 2.3501188",non
+Pharmacie Mont-Louis,"Rue de Mont-Louis, 75011 Paris, France",Non renseigné,non,,,5.555644684580504,"48.8582932, 2.389228",non
+Pharmacie des Panoramas,"Galerie Montmartre, 75002 Paris, France",Non renseigné,non,,,5.556564755144782,"48.8705289, 2.3425306",non
+Pharmacie Choiseul,"Rue de Choiseul, 75002 Paris, France",Non renseigné,non,,,5.558784208536079,"48.8705363, 2.3358361",non
+Pharmacie de la Folie-Regnault,"52 Rue de la Folie Regnault, 75011 Paris, France",+33 1 43 79 05 29,non,,,5.558969371228039,"48.8596615, 2.3868062",non
+Pharmacie Bonne Nouvelle,"12 Boulevard de Bonne Nouvelle, 75010 Paris, France",Non renseigné,non,,,5.575353647093986,"48.8701054, 2.3514869",non
+Pharmacie Porte Saint-Denis,"2 Rue du Faubourg Saint-Denis, 75010 Paris, France",+33 1 47 70 06 70,non,,,5.579206944262581,"48.8699759, 2.3529531",non
+Pharmacie Labi,"Rue du Chemin Vert, 75011 Paris, France",Non renseigné,non,,,5.588827850685772,"48.8618383, 2.3830584",non
+Pharmacie Choumin,"Rue des Trois Bornes, 75011 Paris, France",Non renseigné,non,,,5.592974490562299,"48.8663019, 2.3713203",non
+Pharmacie du Boulevard de Charonne,"Rue Alexandre Dumas, 75020 Paris, France",Non renseigné,non,,,5.620886426419566,"48.8545573, 2.3962916",non
+Pharmacie de la Scala,"11 Boulevard de Strasbourg, 75010 Paris, France",Non renseigné,non,,,5.625244280416638,"48.8702017, 2.3545133",non
+Pharmacie des Grands Boulevards,"Rue Montmartre, 75002 Paris, France",Non renseigné,non,,,5.6341789083029,"48.8712109, 2.3430984",non
+Pharmacie LeClerc,"Rue Godot-de-Mauroy, 75009 Paris, France",Non renseigné,non,,,5.643151303615119,"48.8706039, 2.3262245",non
+Pharmacie de l'Opéra,"Rue Auber, 75009 Paris, France",Non renseigné,non,,,5.649835096523065,"48.8711342, 2.3313636",non
+Pharmacie Assoun,"Avenue de la République, 75011 Paris, France",+33143573456,non,,,5.65865568794517,"48.8648624, 2.3775558",non
+Pharmacie de Strasbourg,"12 Boulevard de Strasbourg, 75010 Paris, France",Non renseigné,non,,,5.659844306619725,"48.8704289, 2.3551851",non
+Pharmacie Beaurepaire,"4 Rue Beaurepaire, 75010 Paris, France",+33 1 40 40 00 35,non,,,5.664643453883216,"48.8690317, 2.3634064",non
+Pharmacie des cliniques,"Avenue Parmentier, 75011 Paris, France",Non renseigné,non,,,5.668339308891233,"48.8663678, 2.3735097",non
+Pharmacie Versailles-Mirabeau,"Villa des Glizières, 75016 Paris, France",Non renseigné,non,,,5.673579122120082,"48.8493912, 2.2754031",non
+Pharmacie Berthelot Fourreau,"Rue du Faubourg du Temple, 75011 Paris, France",Non renseigné,non,,,5.693649249570938,"48.8685216, 2.36681",non
+Pharmacie Alexandre Dumas,"Rue de Bagnolet, 75020 Paris, France",Non renseigné,non,,,5.716773141623826,"48.856592, 2.3951782",non
+Pharmacie du Quartier Saint-Martin,"Rue Taylor, 75010 Paris, France",+33 1 42 08 22 72,non,,,5.733952868065722,"48.8704534, 2.3594304",non
+Pharmacie Pyrénées-Vincennes,"Rue des Pyrénées, 75020 Paris, France",Non renseigné,non,,,5.741276160386634,"48.8479906, 2.4058932",non
+Grande Pharmacie d'Avron,"Rue d'Avron, 75020 Paris, France",Non renseigné,non,,,5.741428399296789,"48.8519996, 2.4016737",non
+Pharmacie de la Madeleine,"Rue Chauveau-Lagarde, 75008 Paris, France",Non renseigné,non,,,5.750464119609464,"48.8712562, 2.3235785",non
+Pharmacie Saint-Maur Oberkampf,"102 Rue Saint-Maur, 75011 Paris, France",+33149238825,non,,,5.753634555212319,"48.8658968, 2.3774054",non
+Pharmavance,"45 Rue du Faubourg Saint-Denis, 75010 Paris, France",+33 1 47 70 34 87,non,,,5.7540695560331265,"48.8715188, 2.353417",non
+Pharmacie Caumartin,"Rue de Caumartin, 75009 Paris, France",Non renseigné,non,,,5.756593413976045,"48.8718551, 2.3283293",non
+Pharmacie Goldfarb Gérard,"19 Boulevard de Magenta, 75010 Paris, France",+33 9 50 73 17 04,non,,,5.7717475469187685,"48.8705337, 2.3609389",non
+Pharmacie Fougère,"Rue du Faubourg Poissonnière, 75010 Paris, France",Non renseigné,non,,,5.778632366873314,"48.8722582, 2.3480167",non
+Pharmacie Actuelle,"17 Rue du Faubourg Montmartre, 75009 Paris, France",Non renseigné,non,,,5.788276514414746,"48.8726012, 2.3430028",non
+Pharmacie Haussmann-Opéra,"Boulevard Haussmann, 75009 Paris, France",Non renseigné,non,,,5.7944726762473975,"48.8726025, 2.334294",non
+Pharmacie Conseil Passy,"Place du Costa Rica, 75016 Paris, France",+33142882034,non,,,5.798421590511953,"48.8583425, 2.2847292",non
+Pharmacie Magenta,"2 Place Jacques Bonsergent, 75010 Paris, France",+33 1 42 08 17 80,non,,,5.800534245564391,"48.8707066, 2.3614499",non
+Pharmacie du Cours de Vincennes,"Cours de Vincennes, 75012 Paris, France",Non renseigné,non,,,5.8159592646657545,"48.8469268, 2.4080604",non
+Pharmacie Deves,"Avenue Théophile Gautier, 75016 Paris, France",Non renseigné,non,,,5.816993726482659,"48.8511376, 2.2748692",non
+Pharmacie Marceau,"Rue Léonce Reynaud, 75116 Paris, France",Non renseigné,non,,,5.82078148926407,"48.8658462, 2.2993986",non
+Pharmacie Centrale d'Avron,"Rue d'Avron, 75020 Paris, France",Non renseigné,non,,,5.831187405595597,"48.8520476, 2.4031571",non
+Ma Pharmacie République,"Rue du Faubourg du Temple, 75011 Paris, France",Non renseigné,non,,,5.833403347522352,"48.8692817, 2.3691088",non
+Pharmacie Européenne,"Rue de la Trémoille, 75008 Paris, France",Non renseigné,non,,,5.834507970717484,"48.8674157, 2.3033941",non
+Pharm O’naturel,"29 Boulevard de Magenta, 75010 Paris, France",+33 1 42 08 20 30,non,,,5.837059095768467,"48.8712633, 2.3602818",non
+Pharmacie Monte-Cristo,"30 Rue de Bagnolet, 75020 Paris, France",+33143703224,non,,,5.842035450342936,"48.8567724, 2.397292",non
+Matignon,"Avenue Matignon, 75008 Paris, France",Non renseigné,non,,,5.842175471922602,"48.8696999, 2.3109865",non
+Pharmacie Rémusat,"Rue de Rémusat, 75016 Paris, France",Non renseigné,non,,,5.84222021623624,"48.8481157, 2.2714017",non
+Pharmacie du Garigliano,"Avenue de Versailles, 75016 Paris, France",Non renseigné,non,,,5.8430046620130565,"48.8409688, 2.2658163",non
+Pharmacie Dahan,"Rue Deguerry, 75011 Paris, France",+33 1 43 57 32 61,non,,,5.843969721906912,"48.8684612, 2.372393",non
+Pharmacie de la porte de Saint-Mandé,"Avenue Courteline, 75012 Paris, France",Non renseigné,non,,,5.859740921113498,"48.8444532, 2.4107855",non
+Pharmacie Franklin,"Rue de Passy, 75016 Paris, France",+33 1 42 88 22 32,non,,,5.861251955497037,"48.8584677, 2.283688",non
+Pharmacie Harrane,"Rue La Fayette, 75009 Paris, France",Non renseigné,non,,,5.8651734529139725,"48.8732432, 2.3343795",non
+Pharmacie La Fontaine,"Rue Jean de La Fontaine, 75016 Paris, France",Non renseigné,non,,,5.893418877345852,"48.8528327, 2.2754794",non
+Pharmacie Cœur de Paris,"Rue des Mathurins, 75009 Paris, France",Non renseigné,non,,,5.9032908957206525,"48.8731446, 2.3278704",non
+Pharmacie de Chaillot,"Rue Scheffer, 75116 Paris, France",+33 1 45 24 01 40,non,,,5.903551930516921,"48.8600965, 2.2854932",non
+Pharmacie Compain,"Rue du Château d'Eau, 75010 Paris, France",Non renseigné,non,,,5.90551897983106,"48.8727042, 2.355029",non
+Pharmacie Ménimontant,"Boulevard de Ménilmontant, 75020 Paris, France",Non renseigné,non,,,5.908147624432954,"48.8632712, 2.3875043",non
+Pharmacie Postic Lagrandeur,"Rue d'Aix, 75010 Paris, France",Non renseigné,non,,,5.914872542128428,"48.8698134, 2.3700786",non
+Lafayette,"Rue La Fayette, 75009 Paris, France",Non renseigné,non,,,5.918464296853635,"48.873761, 2.3354031",non
+Pharmacie Haggiac,"Rue La Fayette, 75009 Paris, France",Non renseigné,non,,,5.925631504780693,"48.8738329, 2.3356364",non
+Pharmacie Internationale,"Rue du Faubourg Saint-Honoré, 75008 Paris, France",Non renseigné,non,,,5.926140042764654,"48.8714188, 2.3150011",non
+Pharmacie Galliera,"Rue Maria Brignole, 75116 Paris, France",Non renseigné,non,,,5.927289118668075,"48.8654723, 2.2956788",non
+Pharmacie du Rond-Point des Champs-Élysées,"Avenue Franklin Delano Roosevelt, 75008 Paris, France",Non renseigné,non,,,5.929666814782266,"48.8702549, 2.3098514",non
+Pharmacie Passy Chernoviz,"Rue Chernoviz, 75016 Paris, France",Non renseigné,non,,,5.932967488610281,"48.8577255, 2.2811747",non
+Pharmacie des Folies Bergère,"Rue de la Boule Rouge, 75009 Paris, France",Non renseigné,non,,,5.937724137784637,"48.873873, 2.3449763",non
+Pharmacie du Fbg Montmartre,"Rue Richer, 75009 Paris, France",Non renseigné,non,,,5.93903411835358,"48.8739699, 2.3425841",non
+Pharmacie Goncourt,"Avenue Parmentier, 75011 Paris, France",Non renseigné,non,,,5.943195688202383,"48.8697016, 2.3714823",non
+Pharmacie de la Place Métivier,"Rue Houdart, 75020 Paris, France",Non renseigné,non,,,5.947680340673203,"48.8633561, 2.3882344",non
+Pharmacie Principale,"Cité Saint-Martin, 75010 Paris, France",Non renseigné,non,,,5.9607874117481305,"48.8727993, 2.357943",non
+Pharmacie Tomasini Cohen,"Avenue Parmentier, 75010 Paris, France",Non renseigné,non,,,5.967976117238723,"48.8701624, 2.3706958",non
+Pharmacie Carré Opéra,"Rue de Mogador, 75009 Paris, France",Non renseigné,non,,,5.97012774541926,"48.8740176, 2.3311821",non
+Pharmacie du conservatoire,"Rue Richer, 75009 Paris, France",+33147705843,non,,,5.97602664022067,"48.8741001, 2.347167",non
+Pharmacie Carré Opéra,"Rue de la Chaussée d'Antin, 75009 Paris, France",Non renseigné,non,,,5.97665805306929,"48.8741803, 2.3329266",non
+Pharmacie Rossi,"Rue Oberkampf, 75011 Paris, France",Non renseigné,non,,,5.977566916488429,"48.8666008, 2.381668",non
+Pharmacie de l'Arcade,"Rue des Mathurins, 75008 Paris, France",Non renseigné,non,,,5.977758155958868,"48.8734209, 2.3242032",non
+Pharmacie Centrale de Passy,"Rue Nicolo, 75016 Paris, France",Non renseigné,non,,,5.979528301378487,"48.8579821, 2.2806665",non
+Fontaine Pharma,"Rue Jean de La Fontaine, 75016 Paris, France",+33 1 45 27 01 62,non,,,5.981901896762232,"48.8506879, 2.271648",non
+Pharmacie Le Mestre,"Rue du Faubourg Saint-Denis, 75010 Paris, France",Non renseigné,non,,,5.983207033234113,"48.8734261, 2.3549514",non
+Grande Pharmacie Jouvenet,"Rue Jouvenet, 75016 Paris, France",Non renseigné,non,,,5.990160719342882,"48.8430519, 2.2650095",non
+Pharmacie Centrale de Charonne,"Rue des Orteaux, 75020 Paris, France",Non renseigné,non,,,5.99744411958739,"48.8567743, 2.4001839",non
+Pharmacie Evans,"Rue Pierre-Charron, 75008 Paris, France",Non renseigné,non,,,6.005964293290637,"48.8685798, 2.3017069",non
+Pharmacie Porte de Vincennes,"Boulevard Soult, 75012 Paris, France",Non renseigné,non,,,6.006271173156958,"48.8465849, 2.4113407",non
+Pharmacie de la Place Chopin,"Rue Singer, 75016 Paris, France",Non renseigné,non,,,6.013187189710697,"48.8563119, 2.2777017",non
+Pharmacie Des Antiquaires,"27 Rue Drouot, 75009 Paris, France",Non renseigné,non,,,6.025439652182308,"48.8747809, 2.3407405",non
+Pharmacie Cornillon,"Rue de Longchamp, 75116 Paris, France",Non renseigné,non,,,6.029967411934853,"48.8648186, 2.2917006",non
+Pharmacie du Faubourg Saint-Honoré,"Rue du Faubourg Saint-Honoré, 75008 Paris, France",Non renseigné,non,,,6.030876362260553,"48.8720895, 2.3135012",non
+Pharmacie Saint-Côme,"Avenue de Versailles, 75016 Paris, France",+33 1 42 88 48 18,non,,,6.033238856634521,"48.8396253, 2.2622106",non
+Pharmacie Saint-Pierre,"Rue Georges Bizet, 75116 Paris, France",Non renseigné,non,,,6.052765385825219,"48.8675617, 2.2975753",non
+Pharmacie du 20ème,"Boulevard de Ménilmontant, 75020 Paris, France",Non renseigné,non,,,6.0658407484863055,"48.8666671, 2.3837961",non
+Pharmacie Mimouni,"Rue du Faubourg du Temple, 75010 Paris, France",Non renseigné,non,,,6.070754296126998,"48.8706026, 2.3727062",non
+Pharmacie des Arts Élysées,"27 Rue de Miromesnil, 75008 Paris, France",+33 1 42 65 27 49,non,,,6.071044230624388,"48.8729521, 2.3158478",non
+Pharmacie Ostrom,"Boulevard de Magenta, 75010 Paris, France",Non renseigné,non,,,6.072659457051753,"48.8737268, 2.3586272",non
+Pharmacie Anglo-Américaine,"Rue de Chaillot, 75116 Paris, France",Non renseigné,non,,,6.073062384082582,"48.8681915, 2.298684",non
+Pharmacie du Canal St-Martin,"Rue des Vinaigriers, 75010 Paris, France",Non renseigné,non,,,6.077076857033895,"48.8732431, 2.3617124",non
+PharmAvance,"Place Paul-Reynaud, 75016 Paris, France",+33 1 46 51 64 08,non,,,6.0842355238899035,"48.8387308, 2.2609773",non
+Pharmacie générale Belleville-Ménilmontant,"9 Boulevard de Belleville, 75011 Paris, France",Non renseigné,non,,,6.092434539149633,"48.8677009, 2.3819329",non
+Pharmacie Maraichers,"Rue des Pyrénées, 75020 Paris, France",Non renseigné,non,,,6.092484518925603,"48.8533987, 2.406081",non
+Pharmacie Kléber,"Avenue Kléber, 75116 Paris, France",+33147279509,non,,,6.1005514192485455,"48.8639118, 2.2882305",non
+Pharmacie Anglaise des Champs-Élysées,"Rue La Boétie, 75008 Paris, France",+33 1 43 59 22 52,non,,,6.104902070688234,"48.8708475, 2.3057806",non
+Pharmacie Fitoussi,"Boulevard Davout, 75020 Paris, France",Non renseigné,non,,,6.1089394593534845,"48.8481243, 2.4116336",non
+Nom inconnu,"97 Rue Jean-Pierre Timbaud, 75011 Paris, France",+33 43 57 15 34,non,,,6.114607345650401,"48.8687118, 2.3798647",non
+Pharmacie Hauteville,"66 Rue d'Hauteville, 75010 Paris, France",+33 1 47 70 21 40,non,,,6.119935452431278,"48.8751088, 2.3509692",non
+Pharmacie du Soleil,"Rue de la Fidélité, 75010 Paris, France",Non renseigné,non,,,6.127605838619151,"48.8744996, 2.3568326",non
+Pharmacie La Boétie Champs-Élysées,"Rue La Boétie, 75008 Paris, France",Non renseigné,non,,,6.12778091633981,"48.8715067, 2.3073286",non
+Pharmacie du Marché de Passy,"Rue Bois-le-Vent, 75016 Paris, France",+33 1 42 88 01 76,non,,,6.133650741179885,"48.8577204, 2.2774067",non
+Pharmacie Cadet - Lafayette,"Rue Cadet, 75009 Paris, France",Non renseigné,non,,,6.13531526520015,"48.875702, 2.3437474",non
+Pharmacie L'Huillier,"Rue de Boulainvilliers, 75016 Paris, France",Non renseigné,non,,,6.136844671897206,"48.8559782, 2.2750423",non
+Pharmacie Couronnes,"Boulevard de Belleville, 75011 Paris, France",Non renseigné,non,,,6.1636567177776955,"48.8691626, 2.3800109",non
+Pharmacie Centrale Belleville,"Rue de l'Orillon, 75011 Paris, France",Non renseigné,non,,,6.16986287306437,"48.870284, 2.3769391",non
+Pharmacie Benmoha Pariente,"Rue Cadet, 75009 Paris, France",Non renseigné,non,,,6.174397628646552,"48.876056, 2.3436865",non
+Pharmacie de l'Hôpital Saint-Louis,"7 Rue de la Grange aux Belles, 75010 Paris, France",01 42 08 57 22,non,,,6.18364557741684,"48.8736618, 2.3646917",non
+Pharmacie Saint Maur Saint-Louis,"196 Rue Saint-Maur, 75010 Paris, France",+33 1 42 39 31 00,non,,,6.183709382087525,"48.8718988, 2.3720288",non
+Pharmacie du Village d'Auteuil,"Rue d'Auteuil, 75016 Paris, France",Non renseigné,non,,,6.18471258059269,"48.8478181, 2.2657099",non
+Pharmacie Saint-Lazare,"Rue Saint-Lazare, 75009 Paris, France",+33148741111,non,,,6.184840406388506,"48.8758681, 2.3298856",non
+Pharmacie du Roule,"Rue du Commandant Rivière, 75008 Paris, France",Non renseigné,non,,,6.185751761687092,"48.872721, 2.309853",non
+Pharmacie Mignon,"Rue de Trévise, 75009 Paris, France",Non renseigné,non,,,6.193700686135045,"48.8761473, 2.3456897",non
+Grande Pharmacie Bailly,"108 Rue Saint-Lazare, 75008 Paris, France",+33 1 53 42 10 10,non,,,6.198079361132755,"48.8755539, 2.3252185",non
+Pharmacie du Trocadéro,"Rue de Longchamp, 75116 Paris, France",Non renseigné,non,,,6.198730462830383,"48.8651067, 2.2883942",non
+Pharmacie de la Trinité,"Rue de Châteaudun, 75009 Paris, France",Non renseigné,non,,,6.202167055057842,"48.8762097, 2.3328316",non
+Pharmacie Goldfarb,"Rue de Maubeuge, 75009 Paris, France",Non renseigné,non,,,6.204693822871877,"48.8763878, 2.3411841",non
+Pharmacie de la Croix Bleue,"Rue d'Auteuil, 75016 Paris, France",+33 1 42 88 07 96,non,,,6.205160885940697,"48.847685, 2.2652772",non
+Pharmacie de la Tour,"Rue de la Tour, 75116 Paris, France",Non renseigné,non,,,6.21723773422947,"48.8607344, 2.2802509",non
+Pharmacie du Faubourg du Temple,"Rue du Faubourg du Temple, 75010 Paris, France",Non renseigné,non,,,6.22908766640678,"48.8714691, 2.3750538",non
+Pharmacie Rogé-Cavailles,"Boulevard Haussmann, 75008 Paris, France",Non renseigné,non,,,6.23104032335664,"48.8750147, 2.3190578",non
+Pharmacie Goldfarb,"Rue Lamartine, 75009 Paris, France",Non renseigné,non,,,6.236619361359151,"48.8766739, 2.3412606",non
+Pharmacie Djololian,"Rue de Bassano, 75116 Paris, France",Non renseigné,non,,,6.238743376403229,"48.8696182, 2.2979209",non
+Pharmacie Centrale des Pyrénées,"Rue des Pyrénées, 75020 Paris, France",Non renseigné,non,,,6.239868682440217,"48.8573349, 2.4038534",non
+Pharmacie Garcia,"Rue de Bagnolet, 75020 Paris, France",Non renseigné,non,,,6.241483371255377,"48.8589893, 2.4016192",non
+Pharmacie de la Croix Saint-Simon,"132 Rue d'Avron, 75020 Paris, France",Non renseigné,non,,,6.2442991136004675,"48.8530836, 2.4089949",non
+Grande pharmacie de Belleville,"Rue Bisson, 75020 Paris, France",Non renseigné,non,,,6.245431866327434,"48.8701219, 2.3796681",non
+La confiance,"Rue de la Présentation, 75011 Paris, France",Non renseigné,non,,,6.2479028790529965,"48.8712692, 2.3763039",non
+Pharmacie Doumer-Passy,"Rue Guichard, 75116 Paris, France",Non renseigné,non,,,6.248928841627662,"48.8589355, 2.2769651",non
+Grande Pharmacie d'Auteuil,"Rue Poussin, 75016 Paris, France",Non renseigné,non,,,6.250317341874546,"48.8490325, 2.2657341",non
+Pharmacie Rose,"Rue Saint-Lazare, 75009 Paris, France",+33 1 48 74 13 38,non,,,6.261515583628374,"48.8768651, 2.3359395",non
+Pharmacie Dambreville,"Rue Chamfort, 75016 Paris, France",+33 1 42 88 53 33,non,,,6.262085683122823,"48.8514366, 2.2678072",non
+Pharmacie de la Porte de Saint-Cloud,"Boulevard Murat, 75016 Paris, France",Non renseigné,non,,,6.264148639612417,"48.8374072, 2.2577221",non
+Pharmacie des Martyrs,"Rue des Martyrs, 75009 Paris, France",Non renseigné,non,,,6.264733385375185,"48.8769401, 2.3393848",non
+Pharmacie Centrale d'Auteuil,"Rue Jean de La Fontaine, 75016 Paris, France",Non renseigné,non,,,6.290688662992742,"48.8483073, 2.2644663",non
+Pharmacie Miromesnil,"Rue de Miromesnil, 75008 Paris, France",Non renseigné,non,,,6.297038548211002,"48.8750834, 2.3159276",non
+Pharmacie Haussmann - Laborde,"Boulevard Haussmann, 75008 Paris, France",Non renseigné,non,,,6.299933156442686,"48.8752912, 2.3169194",non
+Pharmacie principale,"51 Rue de Ménilmontant, 75020 Paris, France",Non renseigné,non,,,6.30832647602401,"48.8680375, 2.3866814",non
+Pharmacie Spinhirny,"Villa Malakoff, 75116 Paris, France",Non renseigné,non,,,6.3123118971783505,"48.865513, 2.2866451",non
+Pharmacie Lafayette du Ranelagh,"Rue du Ranelagh, 75016 Paris, France",Non renseigné,non,,,6.317757983055383,"48.8552591, 2.2709985",non
+Pharmavance,"Rue Michel-Ange, 75016 Paris, France",Non renseigné,non,,,6.322203762783195,"48.843998, 2.2606789",non
+Pharmacie Conseil la Fayette,"Rue La Fayette, 75010 Paris, France",Non renseigné,non,,,6.332511352099394,"48.8771691, 2.349388",non
+Pharmacie Galilée,"Rue Jean Giraudoux, 75116 Paris, France",Non renseigné,non,,,6.335192005430677,"48.8699534, 2.2961465",non
+Pharmacie Dubly,"Avenue Kléber, 75116 Paris, France",Non renseigné,non,,,6.342186871508939,"48.8675763, 2.2902468",non
+Nom inconnu,"Rue de Miromesnil, 75008 Paris, France",Non renseigné,non,,,6.343225754084531,"48.8755033, 2.3158643",non
+Pharmacie Centrale de l'Est,"Rue du 8 Mai 1945, 75010 Paris, France",Non renseigné,non,,,6.345017320472678,"48.8764872, 2.3569059",non
+Pharmacie de la Muette,"Avenue Mozart, 75016 Paris, France",Non renseigné,non,,,6.346529411640211,"48.858012, 2.2739092",non
+Pharmacie 43,"Rue des Maronites, 75020 Paris, France",Non renseigné,non,,,6.3480390334098935,"48.8689687, 2.3854808",non
+Pharmacie Mozart,"Avenue Mozart, 75016 Paris, France",Non renseigné,non,,,6.359390830546834,"48.8572978, 2.2727541",non
+Pharmacie Boissière,"Avenue Kléber, 75116 Paris, France",Non renseigné,non,,,6.3687774025562325,"48.8683863, 2.2914212",non
+Pharmacie Homéopathique de Messine,"Avenue de Messine, 75008 Paris, France",Non renseigné,non,,,6.3777171933647585,"48.8755374, 2.3143555",non
+Pharmacie Hibert,"Rue Washington, 75008 Paris, France",Non renseigné,non,,,6.379249686344063,"48.8724883, 2.3022117",non
+Pharmacie du Septentrionet de l'Est,"Rue du Faubourg Saint-Denis, 75010 Paris, France",Non renseigné,non,,,6.37938735053022,"48.8769179, 2.3560295",non
+Pharmacie Rodier,"Rue Claude-Rodier, 75009 Paris, France",Non renseigné,non,,,6.380089987210631,"48.8779431, 2.3424201",non
+Pharmacie Saint-Augustin,"Boulevard Malesherbes, 75008 Paris, France",Non renseigné,non,,,6.380453422345829,"48.8761976, 2.3178307",non
+Pharmacie de la Porte de Montreuil,"Boulevard Davout, 75020 Paris, France",Non renseigné,non,,,6.381392653063891,"48.8533437, 2.4110062",non
+Pharmacie Exelmans,"77 Boulevard Exelmans, 75016 Paris, France",Non renseigné,non,,,6.382338016509237,"48.843338, 2.2593388",non
+Gagne Petit,"Rue de Belleville, 75020 Paris, France",+33 1 46 36 67 42,non,,,6.384762940424497,"48.8721807, 2.3777353",non
+Pharmacie Bailly,"Avenue Mozart, 75016 Paris, France",Non renseigné,non,,,6.390464551991929,"48.8553061, 2.269803",non
+Pharmacie de la Porte d'Auteuil,"Rue d'Auteuil, 75016 Paris, France",Non renseigné,non,,,6.394326835821889,"48.8481034, 2.262677",non
+Pharmacie du Rocher,"Rue de la Bienfaisance, 75008 Paris, France",+33145226861,non,,,6.3976590618031315,"48.8769049, 2.3214132",non
+Pharmacie Lengronne,"Rue Lauriston, 75116 Paris, France",Non renseigné,non,,,6.406345791580364,"48.867148, 2.2878128",non
+Pharmacie Coilliaux,"Place Martin Nadaud, 75020 Paris, France",+331 46 36 41 06,non,,,6.409051896211896,"48.8651519, 2.3949648",non
+Pharmacie d'Amsterdam,"Impasse d'Amsterdam, 75008 Paris, France",Non renseigné,non,,,6.413697044531787,"48.8776805, 2.3267977",non
+Pharmacie Lellouche,"Boulevard de la Villette, 75010 Paris, France",Non renseigné,non,,,6.417096073405179,"48.8732607, 2.3752743",non
+Pharmacie Saint-Blaise,"117 Rue de Bagnolet, 75020 Paris, France",+33 1 43 71 43 99,non,,,6.418081611035514,"48.859991, 2.4035004",non
+Pharmacie Rouche,"Rue de Berri, 75008 Paris, France",Non renseigné,non,,,6.4202469599222525,"48.8745382, 2.3080937",non
+Pharmacie Pharmavance,"Rue Marie-Éléonore de Bellefond, 75009 Paris, France",Non renseigné,non,,,6.421722405778677,"48.8782291, 2.3451211",non
+Pharmacie Moreau,"Rue Decamps, 75116 Paris, France",Non renseigné,non,,,6.458971481995422,"48.865253, 2.2829502",non
+Pharmacie Bui Champenois,"Boulevard de la Villette, 75010 Paris, France",Non renseigné,non,,,6.461539271383336,"48.8739053, 2.3745589",non
+Pharmacie du Parc des Princes,"Place du Général Stefanik, 75016 Paris, France",Non renseigné,non,,,6.475396159473703,"48.8401003, 2.2560437",non
+Pharmacie Centrale Martyrs,"36 Rue des Martyrs, 75009 Paris, France",+33 1 48 78 10 04,non,,,6.477424871764455,"48.8788518, 2.3399394",non
+Pharmacie Homéopatique Maubeuge,"Rue de Maubeuge, 75009 Paris, France",Non renseigné,non,,,6.4824926085125085,"48.8787013, 2.34668",non
+Lafayette,"Rue de Longchamp, 75116 Paris, France",Non renseigné,non,,,6.482991657428637,"48.8655162, 2.282918",non
+Pharmacie Saint-Georges,"Rue Laferrière, 75009 Paris, France",Non renseigné,non,,,6.49500086494957,"48.8789901, 2.3370287",non
+Pharmacie Wolff,"Rue Saint-Blaise, 75020 Paris, France",Non renseigné,non,,,6.4965898676163745,"48.8573471, 2.4084118",non
+Pharmacie Sambre et Meuse,"Rue de Sambre et Meuse, 75010 Paris, France",Non renseigné,non,,,6.498488271401665,"48.8746172, 2.3732994",non
+Pharmacie Centrale du Nord,"Rue La Fayette, 75010 Paris, France",Non renseigné,non,,,6.5002683238794505,"48.8782951, 2.3537083",non
+Pharmacie de l'Europe,"31 Rue d'Amsterdam, 75008 Paris, France",Non renseigné,non,,,6.511307720643987,"48.8785701, 2.3268262",non
+Pharmacie Issoulie,"Rue Treilhard, 75008 Paris, France",Non renseigné,non,,,6.515154283872641,"48.8770027, 2.3152869",non
+Pharmacie Attuil - Giffard,"85 Rue de Ménilmontant, 75020 Paris, France",Non renseigné,non,,,6.524388991672203,"48.868867, 2.3900956",non
+Pharmacie La Bienfaisance,"Rue Treilhard, 75008 Paris, France",Non renseigné,non,,,6.525273629256554,"48.8766669, 2.3130694",non
+Pharmacie Pecker,"Rue La Bruyère, 75009 Paris, France",Non renseigné,non,,,6.529789498647754,"48.8792406, 2.334651",non
+Pharmacie des Belles Feuilles,"Rue Saint-Didier, 75116 Paris, France",+33 1 47 27 14 72,non,,,6.54582667711901,"48.8668133, 2.2839901",non
+Pharmacie du Square,"Square des Cardeurs, 75020 Paris, France",Non renseigné,non,,,6.548483537640763,"48.8587751, 2.4075335",non
+Pharmacie du Triangle,"Avenue de Friedland, 75008 Paris, France",Non renseigné,non,,,6.557559765842351,"48.8750379, 2.3049347",non
+Pharmacie Du Docteur Blanche,"Rue du Docteur Blanche, 75016 Paris, France",+33 1 46 47 82 90,non,,,6.558032412074698,"48.8534396, 2.2649713",non
+Pharmacie Gambetta,"Place Gambetta, 75020 Paris, France",Non renseigné,non,,,6.565891790962393,"48.8647092, 2.3990492",non
+Pharmacie Turgot,"Rue Marguerite de Rochechouart, 75009 Paris, France",Non renseigné,non,,,6.568748719991776,"48.8795145, 2.3459962",non
+Pharmacie des Gâtines,"Rue des Gâtines, 75020 Paris, France",Non renseigné,non,,,6.572769916495029,"48.8654901, 2.3978337",non
+Pharmacie Derhy,"Rue de Presbourg, 75008 Paris, France",Non renseigné,non,,,6.578472095602474,"48.8727673, 2.2969966",non
+Pharmacie du Dome,"33 Rue Lauriston, 75116 Paris, France",+33 9 53 23 74 75,non,,,6.580807572134109,"48.8707344, 2.2916096",non
+Pharmacie Sok,"Rue de Belleville, 75020 Paris, France",Non renseigné,non,,,6.582206209699779,"48.8730284, 2.3811633",non
+Pharmacie Étoile-Iéna,"Rue la Pérouse, 75116 Paris, France",+33 1 45 00 60 66,non,,,6.58302449037135,"48.8720178, 2.2948076",non
+Grande Pharmacie de la Pompe,"Rue Decamps, 75116 Paris, France",+33 1 45 04 73 46,non,,,6.583506552710305,"48.8629455, 2.2765257",non
+Pharmacie Nadjar,"Boulevard Davout, 75020 Paris, France",Non renseigné,non,,,6.585254091773841,"48.8569651, 2.4104184",non
+pharmacie traditionnelle chinoise,"Rue Rampal, 75019 Paris, France",Non renseigné,non,,,6.591895569431554,"48.8735594, 2.3798822",non
+Pharmacie Friedland,"Rue Balzac, 75008 Paris, France",+33 1 45 61 12 78,non,,,6.593314422054147,"48.8741131, 2.3005904",non
+Pharmacie Cohen Solal,"Rue de Belzunce, 75010 Paris, France",Non renseigné,non,,,6.597194459590914,"48.8795477, 2.3496189",non
+Pharmacie Centrale,"Rue de Maubeuge, 75009 Paris, France",Non renseigné,non,,,6.599183532692602,"48.8796192, 2.3488789",non
+Pharmacie de la Mairie,"82 Rue de la Pompe, 75116 Paris, France",Non renseigné,non,,,6.6097955767511305,"48.8637003, 2.2771979",non
+Pharmacie de Liège,"Rue de Liège, 75008 Paris, France",Non renseigné,non,,,6.613627155428712,"48.8794888, 2.3267113",non
+Pharmacie Boiron,"Boulevard Malesherbes, 75008 Paris, France",Non renseigné,non,,,6.619912274973984,"48.8781681, 2.3163408",non
+Pharmacie du Casino de Paris,"Rue de Liège, 75009 Paris, France",+33 1 48 74 65 16,non,,,6.62303492682577,"48.8797698, 2.3290246",non
+Pharmacie Anglaise,"Rue de Compiègne, 75010 Paris, France",Non renseigné,non,,,6.637116270592868,"48.8795579, 2.3535539",non
+Grande Pharmacie Massé,"Rue Victor Massé, 75009 Paris, France",+33 1 48 78 33 14,non,,,6.647613609149826,"48.8803813, 2.3401661",non
+Pharmacie des Théâtres,"Rue Chaptal, 75009 Paris, France",Non renseigné,non,,,6.6758048314956095,"48.8805625, 2.3348575",non
+Pharmacie CHY HAC,"Rue des Pyrénées, 75020 Paris, France",Non renseigné,non,,,6.682016148957222,"48.8673603, 2.3967522",non
+Pharmacie Goncourt,"Rue de la Grange aux Belles, 75010 Paris, France",Non renseigné,non,,,6.68864863958617,"48.8774044, 2.3694714",non
+Pharmanord,"Rue de Dunkerque, 75010 Paris, France",Non renseigné,non,,,6.690940307853817,"48.8795773, 2.3575395",non
+Nom inconnu,"Rue Pelleport, 75020 Paris, France",Non renseigné,non,,,6.697615509272759,"48.8631993, 2.4041024",non
+Pharmacie Rébeval,"Rue Rébeval, 75019 Paris, France",Non renseigné,non,,,6.6991033060822955,"48.8746967, 2.3796965",non
+Pharmacie des Arts,"Rue Victor Massé, 75009 Paris, France",Non renseigné,non,,,6.701289173032188,"48.8808537, 2.3375391",non
+Grande Pharmacie de Maubeuge,"Rue de Maubeuge, 75010 Paris, France",Non renseigné,non,,,6.701411922692116,"48.8802984, 2.351954",non
+Pharmacie Place Victor Hugo,"1 Place Victor Hugo, 75116 Paris, France",Non renseigné,non,,,6.707149518044975,"48.8696653, 2.2860871",non
+Pharmacie du métro,"Boulevard de la Villette, 75010 Paris, France",Non renseigné,non,,,6.7154961448187205,"48.877421, 2.370499",non
+Pharmacie Homéopathique Centrale,"Rue de la Pompe, 75116 Paris, France",Non renseigné,non,,,6.723983161733216,"48.8670689, 2.2806034",non
+Pharmacie 111,"111 Avenue Victor Hugo, 75116 Paris, France",Non renseigné,non,,,6.742697757357655,"48.8684878, 2.282875",non
+PharmAvance,"Rue de Belleville, 75020 Paris, France",+33 1 46 36 69 04,non,,,6.752462012671873,"48.8735729, 2.3845184",non
+Pharmacie de Dunkerque,"Rue de Dunkerque, 75009 Paris, France",Non renseigné,non,,,6.763836587984821,"48.8810488, 2.3497146",non
+Pharmacie Basire,"2 Rue des Belles Feuilles, 75116 Paris, France",Non renseigné,non,,,6.783402088943699,"48.8680015, 2.2810489",non
+Pharmacie du Parc Monceau,"Rue de Courcelles, 75008 Paris, France",Non renseigné,non,,,6.784410626632694,"48.8774923, 2.3059009",non
+Pharmacie Moderne,"Rue du Rocher, 75008 Paris, France",Non renseigné,non,,,6.785295405651105,"48.8799596, 2.3179042",non
+Pharmacie Amsallem,"Rue de Moscou, 75008 Paris, France",Non renseigné,non,,,6.792871057205494,"48.8808916, 2.3244418",non
+Pharmacie Lamartine,"Avenue Victor Hugo, 75116 Paris, France",+33 1 47 27 87 85,non,,,6.795795397532203,"48.867603, 2.2800442",non
+PharmAvance,"Rue des Pyrénées, 75020 Paris, France",+33 1 40 31 91 01,non,,,6.806847586279602,"48.8697159, 2.3949194",non
+Pharmacie des Écoles,"Avenue Simón Bolívar, 75019 Paris, France",Non renseigné,non,,,6.81472506716224,"48.877532, 2.3738783",non
+Pharmacie du métro Pyrénées,"Cour de la Métairie, 75020 Paris, France",Non renseigné,non,,,6.814791351718569,"48.8738082, 2.385616",non
+Pharmacie Internationale,"Paris, France",Non renseigné,non,,,6.820030013458174,"48.881922, 2.337556",non
+Pharmacie des Artistes,"Boulevard de Clichy, 75009 Paris, France",+33148784043,non,,,6.820101870800869,"48.8819337, 2.3388813",non
+Pharmacie Victor Hugo,"Rue Thiers, 75116 Paris, France",+33 1 47 27 68 14,non,,,6.826811593047719,"48.8666021, 2.2776192",non
+Pharmacie Rivaux et Arbaut,"Rue Belgrand, 75020 Paris, France",Non renseigné,non,,,6.844993419180739,"48.8647822, 2.4045312",non
+Pharmacie Nord-Magenta,"Boulevard de Magenta, 75010 Paris, France",Non renseigné,non,,,6.849524241161053,"48.8817355, 2.3508654",non
+Pharmacie d'Anvers,"Rue de Dunkerque, 75009 Paris, France",Non renseigné,non,,,6.8495376466586375,"48.8820386, 2.3461591",non
+Pharmacie Seguin,"Rue de la Tour, 75116 Paris, France",Non renseigné,non,,,6.850529459993907,"48.8637245, 2.2725469",non
+Nom inconnu,"Avenue Simón Bolívar, 75019 Paris, France",Non renseigné,non,,,6.858569819098431,"48.875452, 2.3822672",non
+Pharmacie de la Mare,"71 Rue de la Mare, 75020 Paris, France",Non renseigné,non,,,6.868508304482199,"48.8729928, 2.3891191",non
+Pharmacie de l'Avenir,"Rue des Chaufourniers, 75019 Paris, France",Non renseigné,non,,,6.8724776717534,"48.8782025, 2.373445",non
+Pharmacie Bensoussan,"Rue La Fayette, 75010 Paris, France",Non renseigné,non,,,6.88043814313355,"48.8806948, 2.3618078",non
+Pharmacie Doumerc,"Rue Alexandre Parodi, 75010 Paris, France",+33 1 46 07 34 71,non,,,6.880524392691383,"48.880262, 2.3643405",non
+Pharmacie de l'Arc de Triomphe,"Avenue de Wagram, 75008 Paris, France",Non renseigné,non,,,6.881214658684002,"48.8757513, 2.2967422",non
+Pharmacie Lafayette La Bellevilloise,"Rue de Belleville, 75020 Paris, France",Non renseigné,non,,,6.88892087390274,"48.8743127, 2.3863159",non
+Pharmacie du Haut Mesnil,"Rue de Ménilmontant, 75020 Paris, France",Non renseigné,non,,,6.901437932767281,"48.870061, 2.3963739",non
+Pharmacie de l'Étoile,"Avenue de la Grande Armée, 75116 Paris, France",Non renseigné,non,,,6.912498825267876,"48.8743633, 2.291973",non
+Pharmacie Cohen,"Avenue Hubert Germain, 75116 Paris, France",+33 1 47 27 54 77,non,,,6.915379130924645,"48.8703665, 2.2827253",non
+Pharmacie Charrier & Lorenzo,"38 Boulevard de Clichy, 75018 Paris, France",Non renseigné,non,,,6.924172280942094,"48.8828427, 2.3365686",non
+Pharmacie Japkowicz,"Avenue Gambetta, 75020 Paris, France",Non renseigné,non,,,6.928763098990142,"48.8679653, 2.4009222",non
+Pharmacie Paris-Magenta,"156 Boulevard de Magenta, 75010 Paris, France",Non renseigné,non,,,6.937047133079363,"48.8825369, 2.3507603",non
+Pharmacie Monge,"70 Boulevard de Rochechouart, 75018 Paris, France",+33 183810804,non,,,6.950745734737223,"48.8830394, 2.3438996",non
+Pharmacie Pyrénées-Jourdain,"Rue des Pyrénées, 75020 Paris, France",Non renseigné,non,,,6.959551990322054,"48.8738767, 2.3893147",non
+Pharmacie Internationale de Paris,"Boulevard Marguerite de Rochechouart, 75009 Paris, France",Non renseigné,non,,,6.976976203321777,"48.8831344, 2.3472146",non
+Pharmacie Principale,"Rue de la Villette, 75019 Paris, France",Non renseigné,non,,,6.979399501069321,"48.8747858, 2.3875414",non
+Pharmacie Sébag,"Allée Georges Recipon, 75019 Paris, France",Non renseigné,non,,,6.991913336798889,"48.8796517, 2.3722324",non
+Pharmacie Chaptal,"78 Boulevard des Batignolles, 75017 Paris, France",+33 1 43 87 28 58,non,,,6.993161627460177,"48.8820895, 2.319335",non
+Pharmacie Haim,"Avenue Gambetta, 75020 Paris, France",Non renseigné,non,,,6.9997703320469284,"48.8683712, 2.401694",non
+Pharmacie des Acacias,"Boulevard des Batignolles, 75008 Paris, France",+0143873563,non,,,7.004249396838958,"48.8829212, 2.3254797",non
+Pharmacie Dalibard,"Rue Dufrénoy, 75116 Paris, France",Non renseigné,non,,,7.0048488668883495,"48.8663312, 2.2735664",non
+Pharmacie Wagram,"Rue du Faubourg Saint-Honoré, 75008 Paris, France",Non renseigné,non,,,7.005713243861187,"48.8775261, 2.2983719",non
+Pharmacie de la Providence,"Rue d'Orsel, 75018 Paris, France",Non renseigné,non,,,7.010613917316713,"48.8836473, 2.3398403",non
+Grande Pharmacie de la Place Blanche,"Place Blanche, 75009 Paris, France",Non renseigné,non,,,7.012483706303688,"48.883486, 2.3321884",non
+Espace santé,"Rue Belgrand, 75020 Paris, France",Non renseigné,non,,,7.019612816921369,"48.8646358, 2.408131",non
+Pharmacie du Carrefour,"Boulevard Marguerite de Rochechouart, 75009 Paris, France",Non renseigné,non,,,7.019946514039836,"48.8834278, 2.3488057",non
+Pharmacie de Villiers,"Avenue de Villiers, 75017 Paris, France",Non renseigné,non,,,7.025022166739596,"48.881753, 2.315289",non
+Pharmacie 217,"Rue La Fayette, 75010 Paris, France",+33 1 46 07 86 44,non,,,7.027200633597044,"48.8815178, 2.364961",non
+Pharmacie Fermon,"Boulevard des Batignolles, 75017 Paris, France",+33186900930,non,,,7.034035120410273,"48.8830214, 2.3238111",non
+Selarl Pharmacie Européenne,"6 Place de Clichy, 75009 Paris, France",Non renseigné,non,,,7.034160727856608,"48.8834171, 2.3280471",non
+Pharmacie Mac Mahon,"Avenue Mac-Mahon, 75017 Paris, France",+33 1 43 80 35 25,non,,,7.0419935017330495,"48.8767367, 2.2948514",non
+Pharmacie d'Orsel,"Rue Seveste, 75018 Paris, France",Non renseigné,non,,,7.046531789061627,"48.8838749, 2.3447014",non
+Pharmacie de la Faisanderie,"Rue de Longchamp, 75116 Paris, France",Non renseigné,non,,,7.0524052815854645,"48.8681867, 2.2756876",non
+Pharmacie de Courcelles,"Rue Théodule Ribot, 75017 Paris, France",Non renseigné,non,,,7.06029578537651,"48.8790537, 2.3017209",non
+Pharmacie 137,"137 Rue de Belleville, 75019 Paris, France",+33 1 42 08 70 06,non,,,7.066974252413648,"48.8751346, 2.3889962",non
+Pharmacie Ahoudayg,"Rue de Clignancourt, 75018 Paris, France",Non renseigné,non,,,7.0716184913641005,"48.8840049, 2.3468986",non
+Leadersanté,"Avenue de la Porte de Bagnolet, 75020 Paris, France",+33143614309,non,,,7.082418046834957,"48.864397, 2.409669",non
+Pharmacie de la Rotonde,"Rue de Logelbach, 75017 Paris, France",Non renseigné,non,,,7.087046341409833,"48.881085, 2.3088634",non
+Pharmacie Lorraine,"Avenue de Wagram, 75017 Paris, France",Non renseigné,non,,,7.099094293328035,"48.8786073, 2.2988738",non
+La Pharmacie,"Rue Saint-Fargeau, 75020 Paris, France",Non renseigné,non,,,7.105226030142199,"48.8708797, 2.3993215",non
+Pharmacie Générale,"11 Rue Lepic, 75018 Paris, France",Non renseigné,non,,,7.128360391830148,"48.8845806, 2.3332877",non
+Pharmacie de la Croix d'Or,"Rue de Courcelles, 75017 Paris, France",Non renseigné,non,,,7.128509954571743,"48.8798448, 2.3021779",non
+Pharmacie Lafayette du Village,"Rue de Belleville, 75019 Paris, France",+33 1 42 06 14 12,non,,,7.136826896071859,"48.8754662, 2.3900096",non
+Pharmacie de la Terrasse,"Rue de la Terrasse, 75017 Paris, France",Non renseigné,non,,,7.137911335557868,"48.8827159, 2.3147856",non
+Pharmacie Saint-Fargeau Gambetta,"Avenue Gambetta, 75020 Paris, France",Non renseigné,non,,,7.140553160387755,"48.8694842, 2.4026771",non
+Pharmacie Grosicki,"Rue Olivier Métra, 75020 Paris, France",Non renseigné,non,,,7.1512108124427485,"48.8744982, 2.3927178",non
+Grande pharmacie des Dames,"Rue des Dames, 75017 Paris, France",Non renseigné,non,,,7.154582567053948,"48.8837964, 2.3210243",non
+Pharmacie Robert,"Rue de Meaux, 75019 Paris, France",Non renseigné,non,,,7.158366035032846,"48.8810222, 2.3731608",non
+Pharmacie Française,"Rue des Acacias, 75017 Paris, France",Non renseigné,non,,,7.165394336548572,"48.8771861, 2.2925485",non
+Nom inconnu,"Avenue Gambetta, 75020 Paris, France",Non renseigné,non,,,7.166905213865981,"48.8698537, 2.402572",non
+Pharmacie Métro La Chapelle,"Rue Perdonnet, 75010 Paris, France",Non renseigné,non,,,7.16770827367701,"48.8835841, 2.3602483",non
+Pharmacie des Abesses,"Rue des Abbesses, 75018 Paris, France",Non renseigné,non,,,7.18331712697117,"48.8851813, 2.336968",non
+Pharmacie 24,"Avenue Mac-Mahon, 75017 Paris, France",+33 1 43 80 11 96,non,,,7.197095153232641,"48.8782012, 2.2945395",non
+Pharmacie des 3 Avenues,"Avenue des Ternes, 75017 Paris, France",+33 1 46 22 28 12,non,,,7.20446221309039,"48.8783435, 2.2947415",non
+Pharmacie du Marché Poncelet,"Rue Poncelet, 75017 Paris, France",Non renseigné,non,,,7.204737036794056,"48.8792819, 2.2976526",non
+Pharmacie des 3 Quartiers,"Rue Capron, 75018 Paris, France",+33 1 45 22 16 48,non,,,7.2050698199259,"48.8848786, 2.3269713",non
+Grande Pharmacie Duret,"Rue Duret, 75116 Paris, France",Non renseigné,non,,,7.213923725453667,"48.8752949, 2.2863783",non
+Pharmacie Secrétan,"Avenue Secrétan, 75019 Paris, France",Non renseigné,non,,,7.222561129627836,"48.8819055, 2.3720179",non
+Pharmacie de la Butte Montmartre,"Rue Lepic, 75018 Paris, France",Non renseigné,non,,,7.2293785823652295,"48.885539, 2.3346124",non
+Pharmacie Gatti,"Place de Lévis, 75017 Paris, France",+33142274951,non,,,7.22975401392596,"48.883313, 2.313319",non
+Pharmacie de la Mairie,"Rue Mariotte, 75017 Paris, France",+33 1 45 22 52 78,non,,,7.231974530380492,"48.8845426, 2.3213297",non
+Pharmacie du Progrès,"Rue de la Goutte d'Or, 75018 Paris, France",Non renseigné,non,,,7.244479603795234,"48.8853902, 2.3498085",non
+Pharmacie des Galeries Dufayel,"Rue André del Sarte, 75018 Paris, France",Non renseigné,non,,,7.255309336320141,"48.8856441, 2.3472442",non
+Pharmacie Boujenah,"Rue Pergolèse, 75116 Paris, France",Non renseigné,non,,,7.275685427993214,"48.8760513, 2.2866166",non
+Pharmacie du Moulin,"Rue Tholozé, 75018 Paris, France",Non renseigné,non,,,7.280883794694447,"48.886018, 2.335121",non
+Pharmacie du Bateau Lavoir,"Rue Berthe, 75018 Paris, France",Non renseigné,non,,,7.290970196682531,"48.8861637, 2.3381011",non
+Pharmacie du Soldat Laboureur,"Rue des Dames, 75017 Paris, France",+33 1 45 22 49 14,non,,,7.295158501361662,"48.8856031, 2.3259033",non
+Pharmacie du Dr Levy,"Rue Cardinet, 75017 Paris, France",Non renseigné,non,,,7.298908781322663,"48.881389, 2.3017616",non
+Grande Pharmacie Mortier,"Boulevard Mortier, 75020 Paris, France",+33140317545,non,,,7.304595606806009,"48.867548, 2.4092194",non
+Pharmacie Malakoff,"Rue Pergolèse, 75116 Paris, France",Non renseigné,non,,,7.306534833776493,"48.8753128, 2.2841014",non
+Pharmacie de la Poste,"28 Rue du Télégraphe, 75020 Paris, France",Non renseigné,non,,,7.317464781772135,"48.8732754, 2.3993407",non
+Pharmacie de Prony,"Rue de Prony, 75017 Paris, France",Non renseigné,non,,,7.326527377603677,"48.8822367, 2.3040102",non
+Pharmacie Emrik,"Rue Théodore de Banville, 75017 Paris, France",Non renseigné,non,,,7.328769242526252,"48.8812543, 2.300208",non
+Pharmacie Principale,"Passage Barthélemy, 75010 Paris, France",Non renseigné,non,,,7.337867790973897,"48.8839161, 2.3676644",non
+Pharmacie du métro,"Boulevard de la Chapelle, 75018 Paris, France",Non renseigné,non,,,7.354397215270796,"48.8846052, 2.36473",non
+Pharmacie de La Croix d'Or,"Rue Legendre, 75017 Paris, France",Non renseigné,non,,,7.355340645443805,"48.8848843, 2.3157039",non
+Grande Pharmacie Niel,"Rue Fourcroy, 75017 Paris, France",+33 1 47 54 00 39,non,,,7.357839299251508,"48.880023, 2.29516",non
+Pharmacie du village Batignolles,"Rue Bridaine, 75017 Paris, France",Non renseigné,non,,,7.3696311094445885,"48.8856296, 2.3199522",non
+Pharmacie de l'Hippodrome,"Rue Cavallotti, 75018 Paris, France",Non renseigné,non,,,7.372114236410588,"48.8864597, 2.3278197",non
+Pharmacie Myrha,"Rue Myrha, 75018 Paris, France",Non renseigné,non,,,7.381727095789269,"48.8865819, 2.3505079",non
+Pharmacie de la Place des Fêtes,"Place des Fêtes, 75019 Paris, France",+33142398767,non,,,7.383393854317136,"48.8765045, 2.3938469",non
+Pharmacie Fourcroy,"Rue Rennequin, 75017 Paris, France",Non renseigné,non,,,7.390074568723851,"48.8813258, 2.2983571",non
+Pharmacie Saint-Ferdinand,"Rue Saint-Ferdinand, 75017 Paris, France",Non renseigné,non,,,7.392434042837169,"48.878495, 2.289737",non
+Pharmacie Sefiani,"Rue Marx Dormoy, 75018 Paris, France",Non renseigné,non,,,7.392937819720678,"48.8858013, 2.3591698",non
+Pharmacie de l'Église,"Place Tristan Bernard, 75017 Paris, France",Non renseigné,non,,,7.397865475399205,"48.879074, 2.291173",non
+Pharmacie Saint-Fargeau,"112 Avenue Gambetta, 75020 Paris, France",Non renseigné,non,,,7.409537805111727,"48.8716275, 2.4045199",non
+Pharmacie de la Place Saint-Ferdinand,"Rue du Débarcadère, 75017 Paris, France",Non renseigné,non,,,7.425510568104951,"48.8780529, 2.2876728",non
+Pharmacie Botzaris des Buttes-Chaumont,"Rue Botzaris, 75019 Paris, France",Non renseigné,non,,,7.430348735292439,"48.8794256, 2.3875724",non
+Pharmacie Hadjali,"Rue Cavé, 75018 Paris, France",Non renseigné,non,,,7.433207171197691,"48.8868, 2.3535164",non
+Pharmacie de la Porte Maillot,"68 Avenue de la Grande Armée, 75017 Paris, France",Non renseigné,non,,,7.434259463823388,"48.877227, 2.2853859",non
+Pharmacie Zribri,"Rue Ramey, 75018 Paris, France",Non renseigné,non,,,7.440289411359869,"48.8872962, 2.3475632",non
+Pharmacie centrale du 20ème,"Rue Vidal de la Blache, 75020 Paris, France",Non renseigné,non,,,7.44327995987665,"48.8692431, 2.4092765",non
+Pharmacie du Tertre,"1 Rue Cortot, 75018 Paris, France",Non renseigné,non,,,7.444732246607497,"48.8875386, 2.3414422",non
+Pharmacie Caillault,"Rue Pierre Demours, 75017 Paris, France",Non renseigné,non,,,7.449305909084794,"48.879672, 2.2913772",non
+Pharmacie du Marché Dejean,"Rue de Suez, 75018 Paris, France",Non renseigné,non,,,7.4514288293374165,"48.8871638, 2.3511635",non
+Pharmacie des Plantes,"Rue de Courcelles, 75017 Paris, France",Non renseigné,non,,,7.4556441282548676,"48.8823431, 2.2996679",non
+Stioui,"71 Avenue de Villiers, 75017 Paris, France",+33 1 47 63 73 94,non,,,7.456195440645201,"48.883655, 2.304729",non
+Pharmacie Château Rouge,"Rue Poulet, 75018 Paris, France",Non renseigné,non,,,7.460704071834227,"48.8873365, 2.3499378",non
+Pharmacie de Tocqueville,"Rue de Lévis, 75017 Paris, France",+33143801340,non,,,7.461733861497522,"48.8850316, 2.3109009",non
+Pharmacie du Square,"Rue Legendre, 75017 Paris, France",Non renseigné,non,,,7.462649520960161,"48.8862038, 2.3178895",non
+Pharmacie Bui-Nguyen,"Rue du Docteur Potain, 75019 Paris, France",Non renseigné,non,,,7.4728141086103435,"48.8757327, 2.3977989",non
+Pharmacie Burbot,"Rue la Condamine, 75017 Paris, France",Non renseigné,non,,,7.477309647581312,"48.8869964, 2.3232146",non
+Pharmacie Zalay,"Rue du Département, 75018 Paris, France",+331 46 07 25 70,non,,,7.503421771333712,"48.8867304, 2.3598075",non
+Pharmacie Pariente,"Avenue Jean Jaurès, 75019 Paris, France",Non renseigné,non,,,7.507956247023659,"48.8839077, 2.3750794",non
+Lafayette,"Place des Fêtes, 75019 Paris, France",Non renseigné,non,,,7.509818997048963,"48.8772175, 2.3953545",non
+Pharmacie Leclerc,"Rue Pierre Demours, 75017 Paris, France",Non renseigné,non,,,7.512030993634818,"48.8814164, 2.2946947",non
+Pharmacie Lebon,"Rue Lebon, 75017 Paris, France",Non renseigné,non,,,7.517138322024902,"48.880663, 2.2922492",non
+Pharmacie Carnot,"Boulevard Malesherbes, 75017 Paris, France",Non renseigné,non,,,7.524650028719539,"48.8848919, 2.3073085",non
+Pharmacie de la Mairie,"Rue Armand Carrel, 75019 Paris, France",Non renseigné,non,,,7.526109833325415,"48.8824225, 2.381271",non
+Pharmacie de la Fourche,"Rue Étienne Jodelle, 75018 Paris, France",Non renseigné,non,,,7.54646321388163,"48.8878847, 2.3259177",non
+Pharmacie Doudeauville,"Rue Poulet, 75018 Paris, France",Non renseigné,non,,,7.555138825077995,"48.8880916, 2.3513096",non
+Pharmacie du 18ème,"Cité de la Chapelle, 75018 Paris, France",Non renseigné,non,,,7.562775627232722,"48.8873089, 2.35955",non
+Pharmacie Courcelles - Demours,"Rue Pierre Demours, 75017 Paris, France",Non renseigné,non,,,7.568710493840531,"48.883307, 2.299164",non
+Pharmacie Casalonga,"Rue Custine, 75018 Paris, France",Non renseigné,non,,,7.5785432039239415,"48.8885767, 2.3468977",non
+Pharmacie Briot,"Rue Jouffroy d'Abbans, 75017 Paris, France",+33147635680,non,,,7.578942385442477,"48.8859245, 2.3098377",non
+Pharmacie Espace Conseil,"64 Boulevard Barbès, 75018 Paris, France",+33 1 46 06 02 61,non,,,7.585889836710971,"48.8884734, 2.3498615",non
+Pharmacie Legendre,"79 Rue Legendre, 75017 Paris, France",+33183954408,non,,,7.588154977492512,"48.8876375, 2.3200004",non
+Pharmacie Berlant,"Rue de Prony, 75017 Paris, France",Non renseigné,non,,,7.596927079576359,"48.883965, 2.3005761",non
+Pharmacie Lichte,"43 Rue Caulaincourt, 75018 Paris, France",+33 1 46 06 50 97,non,,,7.6171805851158165,"48.8890228, 2.3343651",non
+Pharmacie Bayen,"Rue Bayen, 75017 Paris, France",Non renseigné,non,,,7.620146980528823,"48.8816635, 2.2921283",non
+Pharmacie de la Gare,"Rue Jouffroy d'Abbans, 75017 Paris, France",Non renseigné,non,,,7.633905289386424,"48.8871097, 2.3135302",non
+Grande Pharmacie de Stalingrad,"Avenue de Flandre, 75019 Paris, France",Non renseigné,non,,,7.638166027225344,"48.8861427, 2.3706463",non
+Pharmacie Doudeauville,"25 Rue Doudeauville, 75018 Paris, France",Non renseigné,non,,,7.65787871184654,"48.8886032, 2.3559443",non
+Pharmacie Mathieu,"Rue Caulaincourt, 75018 Paris, France",Non renseigné,non,,,7.664685788641196,"48.8895292, 2.3399573",non
+Pharmacie de la rotonde,"Rue Félix Ziem, 75018 Paris, France",Non renseigné,non,,,7.668974433690344,"48.8894588, 2.3334837",non
+Pharmacie des Ternes,"Avenue des Ternes, 75017 Paris, France",Non renseigné,non,,,7.677579206020274,"48.880474, 2.287142",non
+Pharmacie Weinstein,"62 Rue Custine, 75018 Paris, France",+33 1 46 06 20 57,non,,,7.706333298898645,"48.8898586, 2.3432421",non
+Pharmacie Clichy-Legendre,"Rue Legendre, 75017 Paris, France",+0146279091,non,,,7.718232901063276,"48.8891655, 2.3229773",non
+Pharmacie des Buttes Chaumont,"Avenue Jean Jaurès, 75019 Paris, France",Non renseigné,non,,,7.730435812158787,"48.8849782, 2.3792829",non
+Pharmacie Bermot Elkeslassi,"Rue Gustave Doré, 75017 Paris, France",Non renseigné,non,,,7.733104048627366,"48.8860631, 2.3037205",non
+Pharmacie Carette,"Rue Lamarck, 75018 Paris, France",Non renseigné,non,,,7.7427903105173765,"48.8902021, 2.3362687",non
+Pharmacie des Batignolles,"Rue Lemercier, 75017 Paris, France",Non renseigné,non,,,7.7433593920179895,"48.8889774, 2.3193555",non
+Aprium,"Boulevard Pereire, 75017 Paris, France",Non renseigné,non,,,7.754242100518795,"48.8844473, 2.296777",non
+Pharmacie des Deux Rues,"Rue de Meaux, 75019 Paris, France",Non renseigné,non,,,7.766127507910572,"48.8851105, 2.3800766",non
+Pharmacie Lapiczak,"Boulevard Pereire, 75017 Paris, France",Non renseigné,non,,,7.766994895684761,"48.8876908, 2.3098561",non
+Pharmacie Ly Cong-Kieu,"Boulevard Pereire, 75017 Paris, France",Non renseigné,non,,,7.770977621169548,"48.8841175, 2.2951026",non
+Pharmacie Marcadet,"65 Boulevard Barbès, 75018 Paris, France",+33 1 46 06 96 30,non,,,7.776575836072289,"48.8902291, 2.3493538",non
+Grande Pharmacie des Batignolles,"3 Place Françoise Dorin, 75017 Paris, France",+33 1 71 18 30 60,non,,,7.788451513228394,"48.8887211, 2.3146325",non
+Pharmacie Moret,"Rue de Belleville, 75020 Paris, France",Non renseigné,non,,,7.791698205784999,"48.8765184, 2.4035726",non
+Pharmacie Tran,"Rue Marx Dormoy, 75018 Paris, France",Non renseigné,non,,,7.792122485439664,"48.889397, 2.3596573",non
+Pharmacie Delaby,"Rue Labat, 75018 Paris, France",Non renseigné,non,,,7.798322883188911,"48.8902907, 2.3513387",non
+Pharmacie des sports,"Place du Général Kœnig, 75017 Paris, France",Non renseigné,non,,,7.802399015351495,"48.8809801, 2.2850743",non
+Pharmacie Darmon,"Rue Damrémont, 75018 Paris, France",Non renseigné,non,,,7.813766595060453,"48.8908011, 2.3346412",non
+Pharmacie Manin,"Place Jacques Féron, 75019 Paris, France",Non renseigné,non,,,7.819398184233072,"48.883322, 2.3877237",non
+Pharmacie Lamarck,"Place Jacques Froment, 75018 Paris, France",Non renseigné,non,,,7.8258230930738915,"48.8907746, 2.3312473",non
+Pharmacie Minel,"Avenue de Clichy, 75017 Paris, France",Non renseigné,non,,,7.837489719886292,"48.8900229, 2.3208798",non
+Grande Pharmacie Marcadet,"Rue Marcadet, 75018 Paris, France",Non renseigné,non,,,7.843520444188813,"48.8911368, 2.3401386",non
+Pharmacie Soussan-Aizenman,"18 Rue Simart, 75018 Paris, France",+33 1 42 54 07 68,non,,,7.8502891976300395,"48.8909793, 2.3478652",non
+Pharmacie Marx Dormoy,"Rue Philippe de Girard, 75018 Paris, France",Non renseigné,non,,,7.859393077579005,"48.8899144, 2.3604238",non
+Pharmacie Bloch,"Rue Dautancourt, 75017 Paris, France",Non renseigné,non,,,7.861159913360648,"48.8907224, 2.3257272",non
+Pharmacie Péreire Wagram,"Boulevard Pereire, 75017 Paris, France",Non renseigné,non,,,7.8665924718371985,"48.8878408, 2.3059757",non
+Pharmacie Satellite,"Avenue de Villiers, 75017 Paris, France",Non renseigné,non,,,7.867131095164152,"48.8853291, 2.2959914",non
+Pharmacie Radja,"63 Rue Damrémont, 75018 Paris, France",Non renseigné,non,,,7.880046875877012,"48.8913982, 2.3346563",non
+Pharmacie Pajol,"Rue Riquet, 75018 Paris, France",Non renseigné,non,,,7.890094672498259,"48.8898494, 2.3629189",non
+Nom inconnu,"Rue Ordener, 75018 Paris, France",Non renseigné,non,,,7.894352586127846,"48.8904093, 2.3590431",non
+Pharmacie du Square de Tocqueville,"Square de Tocqueville, 75017 Paris, France",Non renseigné,non,,,7.898102883413654,"48.8882916, 2.3066969",non
+Pharmacie Baini,"Boulevard Gouvion-Saint-Cyr, 75017 Paris, France",+33 1 45 72 47 52,non,,,7.905085516155739,"48.883055, 2.2877856",non
+Pharmacie Dauny,"Rue du Docteur Heulin, 75017 Paris, France",Non renseigné,non,,,7.906608885429602,"48.8910433, 2.3246815",non
+Pharmacie Jaurès-Crimée,"Rue de Crimée, 75019 Paris, France",Non renseigné,non,,,7.914319857848404,"48.8860404, 2.3819393",non
+Pharmacie Simar,"28 Rue Ordener, 75018 Paris, France",Non renseigné,non,,,7.9154719106354205,"48.89134, 2.351486",non
+Pharmacie 75,"75 Rue Ordener, 75018 Paris, France",Non renseigné,non,,,7.918812833157374,"48.8915311, 2.3490652",non
+Pharmacie 112,"Avenue Jean Jaurès, 75019 Paris, France",+33 142398134,non,,,7.92174372458274,"48.8858942, 2.3827093",non
+Pharmacie Taieb,"Avenue de Flandre, 75019 Paris, France",Non renseigné,non,,,7.923208352864998,"48.8881063, 2.3740635",non
+Pharmacie Héliopolis,"Rue d'Héliopolis, 75017 Paris, France",Non renseigné,non,,,7.924743114898699,"48.885224, 2.293731",non
+leadersanté,"Rue Alphonse Aulard, 75019 Paris, France",Non renseigné,non,,,7.934208509043399,"48.8803605, 2.3986503",non
+Pharmacie du Square Clignancourt,"43 Rue Simart, 75018 Paris, France",+33 1 46 06 38 66,non,,,7.940942972198949,"48.8918681, 2.3463492",non
+Pharmacie Centrale de la Chapelle,"Rue de la Chapelle, 75018 Paris, France",Non renseigné,non,,,7.9415119720141165,"48.8907659, 2.3596503",non
+Pharmacie Dauny,"40 Rue Davy, 75017 Paris, France",+33 1 42 28 26 38,non,,,7.953806205663293,"48.8914004, 2.3239088",non
+Pharmacie Riquet,"Rue Riquet, 75019 Paris, France",Non renseigné,non,,,7.979887826202029,"48.8888376, 2.3731738",non
+Pharmacie de la porte des Lilas,"Boulevard Mortier, 75020 Paris, France",Non renseigné,non,,,7.987621299872609,"48.8769048, 2.4071896",non
+Pharmacie Les Alizés,"Avenue de Saint-Ouen, 75018 Paris, France",Non renseigné,non,,,8.003297246155148,"48.8921366, 2.3273392",non
+Gondard Casabianca,"Rue Ordener, 75018 Paris, France",Non renseigné,non,,,8.014779354046437,"48.8926467, 2.3426611",non
+Pharmacie Jules Joffrin,"Rue Hermel, 75018 Paris, France",Non renseigné,non,,,8.018946774187523,"48.8926144, 2.3452196",non
+Pharmacie de la Chapelle,"Rue de la Chapelle, 75018 Paris, France",Non renseigné,non,,,8.02652397662903,"48.8915441, 2.3596492",non
+Pharmacie du Marché,"Rue de Torcy, 75018 Paris, France",Non renseigné,non,,,8.034507574976763,"48.8913687, 2.3615676",non
+Pharmacie de Paris,"Boulevard Gouvion-Saint-Cyr, 75017 Paris, France",Non renseigné,non,,,8.035361636985423,"48.8853973, 2.2907825",non
+Pharmacie Européenne,"Boulevard Ornano, 75018 Paris, France",Non renseigné,non,,,8.042886253093839,"48.892647, 2.3491395",non
+Pharmaice Maarek,"Boulevard Berthier, 75017 Paris, France",Non renseigné,non,,,8.051499151671951,"48.8879696, 2.2990639",non
+ Pharmacie du Conservatoire  Paris,"Square du Thimerais, 75017 Paris, France",+33171706309,non,,,8.057131420762728,"48.8870821, 2.2956015",non
+Pharmacie de la Porte Brunet,"Avenue de la Porte Brunet, 75019 Paris, France",Non renseigné,non,,,8.073801836679756,"48.8831921, 2.3953289",non
+Pharmacie du Conservatoire,"Rue de Courcelles, 75017 Paris, France",Non renseigné,non,,,8.074967466636448,"48.887202, 2.295409",non
+Pharmacie Champerret,"Rue Catulle Mendès, 75017 Paris, France",Non renseigné,non,,,8.079586397907685,"48.88616, 2.291785",non
+Pharmacie 130 Ordener,"Rue Montcalm, 75018 Paris, France",Non renseigné,non,,,8.100320556223856,"48.8934462, 2.3386363",non
+Pharmacie Guy Môquet,"Rue Guy Môquet, 75017 Paris, France",+33146271712,non,,,8.101387106888343,"48.8929864, 2.3268273",non
+Pharmacie Sainte-Odile,"Avenue Stéphane Mallarmé, 75017 Paris, France",Non renseigné,non,,,8.104191659218925,"48.8872531, 2.2945914",non
+Pharmacie les Grandes Carrières,"Rue Damrémont, 75018 Paris, France",Non renseigné,non,,,8.108942344778493,"48.8934928, 2.3360826",non
+Pharmacie Hassan,"Rue Curial, 75019 Paris, France",Non renseigné,non,,,8.109255179374914,"48.8903971, 2.3715296",non
+Pharmacie Zaidi,"Rue Berzélius, 75017 Paris, France",Non renseigné,non,,,8.111395372333337,"48.8921733, 2.3179808",non
+Pharmacie du Marché du Poteau,"Place Charles Bernard, 75018 Paris, France",Non renseigné,non,,,8.118263622329172,"48.893575, 2.342801",non
+Pharmacie Renoul Georgel,"Avenue de Saint-Ouen, 75018 Paris, France",Non renseigné,non,,,8.137864896882892,"48.8933844, 2.3277691",non
+Pharmacie de la Porte d'Asnières,"Boulevard Berthier, 75017 Paris, France",Non renseigné,non,,,8.162338951267433,"48.8900719, 2.3033682",non
+Paris Pharma,"Allée Darius Milhaud, 75019 Paris, France",Non renseigné,non,,,8.167402494173343,"48.8851755, 2.3925938",non
+Pharmacie Bethoux Pouget,"Rue de Lunéville, 75019 Paris, France",Non renseigné,non,,,8.173683471265583,"48.8870513, 2.3871615",non
+Pharmacie de l'Éden,"Rue Championnet, 75018 Paris, France",Non renseigné,non,,,8.181820417857612,"48.8940422, 2.332537",non
+Pharmacie Fouché,"Boulevard d'Indochine, 75019 Paris, France",Non renseigné,non,,,8.188609513674068,"48.8838456, 2.3967316",non
+Pharmacie des Epinettes,"Rue de la Jonquière, 75017 Paris, France",+33 1 46 27 06 03,non,,,8.198153620768611,"48.893576, 2.3234384",non
+La petite pharma,"Rue Petit, 75019 Paris, France",Non renseigné,non,,,8.20719829689866,"48.8860701, 2.3911943",non
+Pharmacie Népenthès,"Avenue de Clichy, 75017 Paris, France",Non renseigné,non,,,8.211748562648415,"48.8928875, 2.3164329",non
+Pharmacie Zederman Fantin,"Rue du Poteau, 75018 Paris, France",Non renseigné,non,,,8.222171928771969,"48.894533, 2.341318",non
+Pharmacie Les Orgues,"Rue Mathis, 75019 Paris, France",Non renseigné,non,,,8.226105234232316,"48.890559, 2.3759603",non
+Pharmacie des fleurs,"Rue de la Jonquière, 75017 Paris, France",+33 1 46 27 08 86,non,,,8.244322127035886,"48.8938617, 2.3220769",non
+Pharmacie Mathieu,"Rue André Messager, 75018 Paris, France",Non renseigné,non,,,8.255901094927204,"48.894808, 2.343062",non
+Pharmacie du Smplon,"Boulevard Ornano, 75018 Paris, France",Non renseigné,non,,,8.259814362345137,"48.8946949, 2.3474146",non
+Pharmacie de l'Aquarius,"Rue de Thionville, 75019 Paris, France",Non renseigné,non,,,8.2748766478089,"48.8891098, 2.3835643",non
+Pharmacie des Jardins du Palais,"Rue Gilbert Cesbron, 75017 Paris, France",Non renseigné,non,,,8.279475000598122,"48.8931392, 2.3138666",non
+Pharmacie Rubinstein,"105 Rue Damrémont, 75018 Paris, France",+33 1 46 06 65 42,non,,,8.293532438574218,"48.8951731, 2.3373305",non
+Pharmacie de la Jonquière,"Rue Pouchet, 75017 Paris, France",Non renseigné,non,,,8.315324589458587,"48.8943508, 2.320594",non
+SELARL Pharmacie du Marché,"Rue du Roi d'Alger, 75018 Paris, France",Non renseigné,non,,,8.318799662544633,"48.8952492, 2.346915",non
+Pharmacie de la Place Cochet,"Avenue de la porte Chaumont, 75019 Paris, France",Non renseigné,non,,,8.342231522477661,"48.8862241, 2.3946584",non
+Pharmacie Souied et Cie,"Avenue de Saint-Ouen, 75017 Paris, France",Non renseigné,non,,,8.352900936826158,"48.8953467, 2.32804",non
+Univers Pharmacie,"Rue Duhesme, 75018 Paris, France",Non renseigné,non,,,8.35939921379548,"48.895662, 2.345742",non
+Pharmacie de Paris,"Rue Eugène Jumin, 75019 Paris, France",Non renseigné,non,,,8.429478926898526,"48.8880598, 2.3919611",non
+Pharmacie de la Porte de Saint-Ouen,"Passage Saint-Ange, 75017 Paris, France",Non renseigné,non,,,8.454913286305471,"48.8962874, 2.3283324",non
+Pharmacie de La Géode,"Avenue de Flandre, 75019 Paris, France",Non renseigné,non,,,8.46091376020755,"48.8920825, 2.3790354",non
+Pharmacie Bana,"Rue Tristan Tzara, 75018 Paris, France",Non renseigné,non,,,8.47994636231622,"48.8953218, 2.3625779",non
+Pharmacie de l'Ourcq,"Rue de l'Ourcq, 75019 Paris, France",Non renseigné,non,,,8.516614104049228,"48.8929938, 2.3774104",non
+Pharmacie Herboriste de Paris,"Petite Ceinture, 75018 Paris, France",Non renseigné,non,,,8.582986975865744,"48.897735, 2.3437738",non
+Pharmacie de la Porte de Montmartre,"Boulevard Ney, 75018 Paris, France",Non renseigné,non,,,8.608073701760528,"48.8980076, 2.3378558",non
+Pharmacie du Boulevard Ney,"144 Boulevard Ney, 75018 Paris, France",Non renseigné,non,,,8.608477148086747,"48.8980009, 2.3369345",non
+Pharmacie Bichat,"Rue Henri Brisson, 75018 Paris, France",Non renseigné,non,,,8.608685729304831,"48.8979639, 2.3349302",non
+Nom inconnu,"Rue de Crimée, 75019 Paris, France",+33140347308,non,,,8.611455832333222,"48.8948566, 2.3728256",non
+Pharmacie Bessières,"Boulevard Bessières, 75017 Paris, France",Non renseigné,non,,,8.643955173620501,"48.8977669, 2.3251169",non
+Pharmacie Ntsourankoua,"Avenue de la Porte de Clignancourt, 75018 Paris, France",Non renseigné,non,,,8.699119258615527,"48.8987788, 2.343828",non
+Nom inconnu,"Boulevard Ney, 75018 Paris, France",Non renseigné,non,,,8.718868667494215,"48.8979862, 2.3586027",non
+Pharmacie de Flandre,"Avenue de Flandre, 75019 Paris, France",+33 1 40 36 66 93,non,,,8.759572918162254,"48.8944168, 2.3812142",non
+Pharmacie de la Porte d'Aubervilliers,"Boulevard Ney, 75018 Paris, France",Non renseigné,non,,,8.943339047051053,"48.8988269, 2.3678133",non
+Pharmacie ZAC Claude Bernard,"Boulevard Macdonald, 75019 Paris, France",Non renseigné,non,,,9.199809795427315,"48.8990674, 2.3792714",non

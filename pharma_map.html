@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Carte interactive - Pharmacies et Réseaux ferrés à Paris</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    #map { height: 90vh; width: 100%; }
+    #controls { padding: 8px; }
+    #controls > * { margin-right: 8px; }
+    #counter { font-weight: bold; }
+    .num-pin {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      border: 2px solid #fff;
+      box-shadow: 0 0 2px rgba(0,0,0,.5);
+    }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <input id="csvInput" type="file" accept=".csv" />
+    <button id="loadCsvBtn">Charger CSV (local)</button>
+    <span id="counter">Vus: 0 / Total: 0</span>
+    <button id="saveCsvBtn">Enregistrer CSV (mis à jour)</button>
+    <button id="openPickerBtn">Ouvrir (accès direct)</button>
+    <button id="savePickerBtn">Enregistrer (accès direct)</button>
+  </div>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    // Initialisation de la carte
+    const map = L.map('map').setView([48.8566, 2.3522], 12);
+
+    // Fond de carte
+    const baseOSM = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    // Couche Pharmacies
+    const pharmacyLayer = L.layerGroup().addTo(map);
+    const pharmacyData = []; // { marker, properties, lon, lat }
+    let originalRows = [];   // lignes originales du CSV (objets)
+    let originalFields = []; // en-têtes d'origine (ordre préservé)
+    let sourceFileName = 'pharmacies_paris_traite_avec_adresses.csv';
+    let fileHandle = null;   // handle du fichier ouvert via File System Access API
+
+    function updateCounter() {
+      const total = pharmacyData.length;
+      const vus = pharmacyData.reduce((acc, f) => acc + (String(f.properties.VUE||'').toLowerCase()==='oui' ? 1:0), 0);
+      const el = document.getElementById('counter');
+      if (el) el.textContent = `Vus: ${vus} / Total: ${total}`;
+    }
+
+    // Style marqueur selon VUE
+    function markerStyleByVue(vue) {
+      const isVue = String(vue || '').trim().toLowerCase() === 'oui';
+      return {
+        radius: 6,
+        color: isVue ? '#c0392b' : '#1e7e34',
+        fillColor: isVue ? '#e74c3c' : '#28a745',
+        fillOpacity: 0.9,
+        weight: 2
+      };
+    }
+
+    function makePopupContent(p) {
+      const name = p.name || 'Nom inconnu';
+      const phone = p.phone || 'Non renseigné';
+      const addr = p.address || 'Adresse non renseignée';
+      const vue = (p.VUE || 'non');
+      const num = p.index != null ? `#${p.index} · ` : '';
+      return `<b>Pharmacie</b><br>${num}${name}<br>📍 ${addr}<br>📞 ${phone}<br>VUE: <b>${vue}</b><br><button class="toggle-vue-btn">Basculer VUE</button>`;
+    }
+
+    function buildNumberedIcon(props) {
+      const isVue = String(props.VUE||'').trim().toLowerCase()==='oui';
+      const bg = isVue ? '#e74c3c' : '#28a745';
+      const html = `<div class="num-pin" style="background:${bg}">${props.index}</div>`;
+      return L.divIcon({
+        className: '',
+        html,
+        iconSize: [22,22],
+        iconAnchor: [11,11],
+        popupAnchor: [0,-12]
+      });
+    }
+
+    function refreshMarkerIcon(item) {
+      item.marker.setIcon(buildNumberedIcon(item.properties));
+    }
+
+    function addPharmacyPoint(lon, lat, props) {
+      const marker = L.marker([lat, lon], { icon: buildNumberedIcon(props) })
+        .bindPopup(makePopupContent(props));
+      marker.on('popupopen', (e) => {
+        const btn = e.popup._contentNode.querySelector('.toggle-vue-btn');
+        if (btn) {
+          btn.addEventListener('click', () => {
+            props.VUE = (String(props.VUE||'non').toLowerCase()==='oui') ? 'non' : 'oui';
+            refreshMarkerIcon({ marker, properties: props });
+            marker.setPopupContent(makePopupContent(props));
+            updateCounter();
+          }, { once: true });
+        }
+      });
+      pharmacyLayer.addLayer(marker);
+      return marker;
+    }
+
+    function parseCoord(str) {
+      if (!str) return null;
+      const parts = String(str).split(',');
+      if (parts.length < 2) return null;
+      const lat = parseFloat(parts[0]);
+      const lon = parseFloat(parts[1]);
+      if (Number.isNaN(lat) || Number.isNaN(lon)) return null;
+      return { lat, lon };
+    }
+
+    function loadCsvText(csvText) {
+      Papa.parse(csvText, {
+        header: true,
+        skipEmptyLines: true,
+        complete: (res) => {
+          pharmacyLayer.clearLayers();
+          pharmacyData.length = 0;
+          const rows = res.data || [];
+          originalRows = rows.map(r => ({...r}));
+          originalFields = Array.isArray(res.meta?.fields) ? [...res.meta.fields] : [];
+          if (!originalFields.includes('VUE')) originalFields.push('VUE');
+
+          const added = [];
+          let displayIndex = 1;
+          rows.forEach((row, rowIndex) => {
+            const coord = parseCoord(row['Coordonnees']);
+            if (!coord) return;
+            const props = {
+              name: row['Pharmacie'] || 'Nom inconnu',
+              phone: row['Telephone'] || 'Non renseigné',
+              address: row['Adresse_Complete'] || '',
+              VUE: (row['VUE'] && String(row['VUE']).trim()) ? String(row['VUE']).trim() : 'non',
+              index: displayIndex,
+              rowIndex
+            };
+            const marker = addPharmacyPoint(coord.lon, coord.lat, props);
+            added.push(marker);
+            pharmacyData.push({ marker, properties: props, lon: coord.lon, lat: coord.lat });
+            displayIndex += 1;
+          });
+          if (added.length > 0) {
+            map.fitBounds(L.featureGroup(added).getBounds().pad(0.1));
+          }
+          updateCounter();
+        }
+      });
+    }
+
+    // Enregistrer/exporter le CSV mis à jour (avec VUE modifiée depuis la carte)
+    function downloadUpdatedCSV() {
+      // Réinjecter VUE dans les lignes originales selon rowIndex
+      pharmacyData.forEach(item => {
+        const idx = item.properties.rowIndex;
+        if (idx != null && originalRows[idx]) {
+          originalRows[idx]['VUE'] = item.properties.VUE || 'non';
+        }
+      });
+
+      const csv = Papa.unparse({
+        fields: originalFields,
+        data: originalRows
+      });
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const a = document.createElement('a');
+      const url = URL.createObjectURL(blob);
+      a.href = url;
+      const base = sourceFileName.replace(/\.csv$/i, '');
+      a.download = `${base}_updated.csv`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    async function saveUpdatedCSVToHandle() {
+      if (!fileHandle) {
+        alert("Aucun fichier ouvert via accès direct.");
+        return;
+      }
+      // Réinjecter VUE dans originalRows
+      pharmacyData.forEach(item => {
+        const idx = item.properties.rowIndex;
+        if (idx != null && originalRows[idx]) {
+          originalRows[idx]['VUE'] = item.properties.VUE || 'non';
+        }
+      });
+      const csv = Papa.unparse({ fields: originalFields, data: originalRows });
+      try {
+        const writable = await fileHandle.createWritable();
+        await writable.write(csv);
+        await writable.close();
+        alert('Fichier enregistré.');
+      } catch (e) {
+        console.error(e);
+        alert("Impossible d'enregistrer le fichier (permissions ?)");
+      }
+    }
+
+    // Chargement CSV local (sans serveur) via input file
+    document.getElementById('loadCsvBtn').addEventListener('click', () => {
+      const input = document.getElementById('csvInput');
+      const file = input.files && input.files[0];
+      if (!file) {
+        alert('Sélectionnez d\'abord le fichier pharmacies_paris_traite_avec_adresses.csv');
+        return;
+      }
+      sourceFileName = file.name || sourceFileName;
+      const reader = new FileReader();
+      reader.onload = (e) => loadCsvText(e.target.result);
+      reader.readAsText(file, 'utf-8');
+    });
+
+    document.getElementById('saveCsvBtn').addEventListener('click', () => {
+      if (!originalRows.length) {
+        alert('Chargez d\'abord un CSV.');
+        return;
+      }
+      downloadUpdatedCSV();
+    });
+
+    // File System Access API - ouvrir/enregistrer sans téléchargement
+    const openPickerBtn = document.getElementById('openPickerBtn');
+    const savePickerBtn = document.getElementById('savePickerBtn');
+    const hasFSA = ('showOpenFilePicker' in window) && ('showSaveFilePicker' in window || 'createWritable' in (window.FileSystemFileHandle||{}));
+    if (!hasFSA) {
+      savePickerBtn.disabled = true;
+      savePickerBtn.title = 'Non supporté par ce navigateur';
+    }
+
+    openPickerBtn.addEventListener('click', async () => {
+      try {
+        if (!('showOpenFilePicker' in window)) throw new Error('FSA non supportée');
+        const [handle] = await window.showOpenFilePicker({
+          types: [{ description: 'CSV', accept: { 'text/csv': ['.csv'] } }]
+        });
+        fileHandle = handle;
+        const file = await handle.getFile();
+        sourceFileName = file.name || sourceFileName;
+        const text = await file.text();
+        loadCsvText(text);
+      } catch (e) {
+        console.warn(e);
+      }
+    });
+
+    savePickerBtn.addEventListener('click', async () => {
+      if (!originalRows.length) {
+        alert('Chargez d\'abord un CSV.');
+        return;
+      }
+      if (!fileHandle && 'showSaveFilePicker' in window) {
+        try {
+          fileHandle = await window.showSaveFilePicker({
+            suggestedName: sourceFileName,
+            types: [{ description: 'CSV', accept: { 'text/csv': ['.csv'] } }]
+          });
+        } catch (e) {
+          console.warn(e);
+        }
+      }
+      await saveUpdatedCSVToHandle();
+    });
+
+    // Couche Réseaux ferrés
+    const railLayer = L.layerGroup().addTo(map);
+
+    // Récupération du réseau ferré (railway=subway/light_rail/rail)
+    fetch("https://overpass-api.de/api/interpreter?data=[out:json][timeout:50];area['name'='Paris']->.searchArea;way['railway'~'subway|light_rail|rail'](area.searchArea);out geom;")
+      .then(r => r.json())
+      .then(data => {
+        (data.elements || []).forEach(el => {
+          if (el.type === "way" && el.geometry) {
+            const coords = el.geometry.map(p => [p.lat, p.lon]);
+            const polyline = L.polyline(coords, {color: "red", weight: 2})
+              .bindPopup("<b>Réseau ferré</b><br>" + (el.tags?.name || "Ligne ferroviaire"));
+            railLayer.addLayer(polyline);
+          }
+        });
+      })
+      .catch(() => {
+        // Offline ou échec réseau: ignorer proprement
+      });
+
+    // Contrôles des couches
+    L.control.layers(
+      {"OpenStreetMap": baseOSM},
+      {"Pharmacies": pharmacyLayer, "Réseaux ferrés": railLayer},
+      {collapsed: false}
+    ).addTo(map);
+  </script>
+</body>
+</html>
